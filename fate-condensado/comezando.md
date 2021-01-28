@@ -31,7 +31,7 @@ A túa PX componse dos seguintes elementos:
 
 Os **aspectos** son frases curtas que describen quen é a túa personaxe ou o que é importante para ela. Poden referirse ás súas cualidades físicas ou mentais, ou á súa historia, crenzas, adestramento, relacións ou mesmo unha peza de equipamento particularmente importante.
 
-O primeiro que debes saber é que [**os aspectos son certos**](/fate-condesado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos). Noutras palabras, a definición que fagas da túa personaxe será real e verdadeira na historia que estades a contar. Se escribes que a túa personaxe é unha <aspect>Francotiradora vedoira</aspect>, entón _é_ unha francotiradora vedoira. Estás a afirmar ante todas que a túa personaxe é unha tiradora de primeira e ve o futuro. 
+O primeiro que debes saber é que [**os aspectos son certos**](/fate-condesado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos). Noutras palabras, a definición que fagas da túa personaxe será real e verdadeira na historia que estades a contar. Se escribes que a túa personaxe é unha <aspect>Francotiradora vedoira</aspect>, entón _é_ unha francotiradora vedoira. Acábaslle de contar a todas que a túa personaxe é unha tiradora de primeira e ve o futuro. 
 
 Tamén usaredes os aspectos en xogo para facer mudanzas á historia. Daránche permiso para mellorar as túas roladas de dados e establecer feitos sobre o mundo. Por último, os aspectos poden concederche **puntos de fado** se crean complicacións para a túa personaxe, así que para escribires os aspectos máis versátiles posíbeis, tenta pensar naqueles de duplo gume que traballan tanto no teu prol como na túa contra.
 
@@ -60,255 +60,39 @@ Se preferides, podedes esperar a escribir os aspectos de relación até que toda
 Os derradeiros dous aspectos da túa personaxe poderán ser calquera cousa que quixeres: non hai restricións alén da obriga de encaixaren coa ambientación. Escolle aquilo que pensas que fará a túa personaxe máis interesante, máis divertida de xogar, ou máis conectada co mundo que habita.
 
 
-### Skills
-
-While aspects define who your character is, **skills** show what they can do. Each skill describes a broad activity your character might have learned through study and practice or simply have an innate talent for. A character with Burglary is capable, to some degree, at all manner of crime relating to the fine art of burgling—casing a joint, bypassing security, pick-pocketing, and lock-picking.
-
-Each skill has a **rating**. The higher the rating, the better the character is at the skill. As a whole, your character’s skills will show you what actions they are built for, which ones they’ll get by on, and which aren’t their forte.
-
-You’ll choose your character’s skill ratings, arranged in a pyramid with the highest-rated skill at Great (+4), as follows:
-
-*   One Great (+4) skill
-*   Two Good (+3) skills
-*   Three Fair (+2) skills
-*   Four Average (+1) skills
-*   All other skills at Mediocre (+0)
-
-#### The <a id="_idTextAnchor001"></a>Adjective Ladder
-
-In _Fate Condensed_, and Fate in general, all ratings are organized into a ladder of adjectives, shown here.
-
-<table>
-
-<tbody>
-
-<tr>
-
-<td>
-
-Rating
-
-</td>
-
-<td>
-
-Adjective
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-+8
-
-</td>
-
-<td>
-
-Legendary
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-+7
-
-</td>
-
-<td>
-
-Epic
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-+6
-
-</td>
-
-<td>
-
-Fantastic
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-+5
-
-</td>
-
-<td>
-
-Superb
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-+4
-
-</td>
-
-<td>
-
-Great
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-+3
-
-</td>
-
-<td>
-
-Good
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-+2
-
-</td>
-
-<td>
-
-Fair
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-+1
-
-</td>
-
-<td>
-
-Average
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-+0
-
-</td>
-
-<td>
-
-Mediocre
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
--1
-
-</td>
-
-<td>
-
-Poor
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
--2
-
-</td>
-
-<td>
-
-Terrible
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
--3
-
-</td>
-
-<td>
-
-Catastrophic
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
--4
-
-</td>
-
-<td>
-
-Horrifying
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+### Habilidades
+
+Mentres que os aspectos definen quen é a túa personaxe, as **habilidades** mostran o que pode facer. Cada habilidade describe unha actividade xeral que a túa personaxe pode que aprendera a través de estudo e práctica ou para a que simplemente teña unha aptitude natural. Unha personaxe con Roubo será capaz, en certa medida, de todo tipo de crimes relacionados coas artes do roubo: analizar un local, sortear a seguridade, furtar e abrir cadeados.
+
+Cada habilidade ten un **nivel**. Canto máis nivel, mellor é a personaxe nesa habilidade. En conxunto, as habilidades da túa personaxe representarán que accións se lle dan ben, de cales ten certo coñecemento, e cales non son o seu.
+
+Escolle as puntaxes da túa personaxe arranxadas nunha pirámide, coa habilidade máis alta no nivel excelente (+4), deste xeito:
+
+* Unha habilidade excelente (+4)
+* Dúas habilidades boas (+3)
+* Tres habilidades razoables (+2)
+* Catro habilidades regulares (+1)
+* O resto das habilidades, mediocres (+0)
+
+#### A escala de niveis
+
+En _Fate Condensado_, e en Fate en xeral, os niveis están organizados nunha escala como a de abaixo.
+
+| Nivel | Adxetivo     |
+| ----- | ------------ |
+| +8    | Lendario     |
+| +7    | Épico        |
+| +6    | Fantástico   |
+| +5    | Soberbio     |
+| +4    | Excelente    |
+| +3    | Bo           |
+| +2    | Razoable     |
+| +1    | Regular      |
+| +0    | Mediocre     |
+| -1    | Frouxo       |
+| -2    | Terrible     |
+| -3    | Catastrófico |
+| -4    | Horroroso    |
 
 #### Skill List
 
