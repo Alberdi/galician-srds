@@ -29,35 +29,36 @@ A túa PX componse dos seguintes elementos:
 
 ### Aspectos
 
-**Aspects** are short phrases that describe who your character is or what is important to them. They can relate to your character’s physical or mental qualities, history, beliefs, training, relationships, or even particularly important equipment.
+Os **aspectos** son frases curtas que describen quen é a túa personaxe ou o que é importante para ela. Poden referirse ás súas cualidades físicas ou mentais, ou á súa historia, crenzas, adestramento, relacións ou mesmo unha peza de equipamento particularmente importante.
 
-The first thing to know about them is: **Aspects are true** (see **page XX** for a discussion of this). In other words, how you define your character is real and true in the story you’re telling. If you write down that your character is a **Precog Sniper**, then they _are_ a precog sniper. You’ve told everyone that your character sees the future and is a crack shot with a rifle.
+O primeiro que debes saber é que [**os aspectos son certos**](/fate-condesado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos). Noutras palabras, a definición que fagas da túa personaxe será real e verdadeira na historia que estades a contar. Se escribes que a túa personaxe é unha <aspect>Francotiradora vedoira</aspect>, entón _é_ unha francotiradora vedoira. Estás a afirmar ante todas que a túa personaxe é unha tiradora de primeira e ve o futuro. 
 
-You’ll also use aspects in play to change the story. They give you permission to improve your dice rolls and establish facts about the world. Lastly, aspects can earn you **fate points** if they create complications for your character—so to make the most versatile aspects, you should aim for ones that are double-edged, working both for you and against you.
+Tamén usaredes os aspectos en xogo para facer mudanzas á historia. Daránche permiso para mellorar as túas roladas de dados e establecer feitos sobre o mundo. Por último, os aspectos poden concederche **puntos de fado** se crean complicacións para a túa personaxe, así que para escribires os aspectos máis versátiles posíbeis, tenta pensar naqueles de duplo gume que traballan tanto no teu prol como na túa contra.
 
-To learn more about aspects and what makes a good one, consider reading some of _Aspects and Fate Points_ (**page XX**).
+Para aprenderes máis sobre os aspectos e o que fai que un sexa bo, podes ler a sección [_Aspectos e puntos de fado_](/fate-condensado/aspectos-e-puntos-de-fado).
 
-**To begin, you’ll give your character five aspects**: a high concept, a trouble, a relationship, and two free aspects. Start with the high concept and go from there.
+**Para comezar, haslle dar á túa personaxe cinco aspectos**: un concepto, un problema, unha relación e outros dos libres. Comeza polo concepto e segue desde aí. 
 
-#### High Concept
+#### Concepto
 
-Your **high concept** is a broad description of the character, covering the vital bits. It’s how you would open your pitch for the character when telling a friend about them.
+O teu **concepto** é unha descrición xeral da personaxe, mencionando as partes máis vitais. É como comezarías a describir a personaxe se lle falases dela a unha amiga.
 
-#### Trouble
+#### Problema
 
-Next is your character’s **trouble**—something that makes your character’s life more complicated. It could be a personal weakness, family entanglements, or other obligations. Pick something you’ll enjoy roleplaying!
+A continuación está o **problema** da personaxe, aquilo que lle complica a vida. Pode ser unha debilidade persoal, compromisos familiares, ou outro tipo de obrigas. Escolle algo que che prestará interpretar!
 
-#### Relationship
+#### Relación
 
-Your **relationship** describes a connection with another PC. They may already know one another, or have just met.
+A túa **relación** describe unha conexión con outra PX. Pode ser que xa se coñezan ou que se acaben de coñecer.
 
-Good relationship aspects should introduce or hint at conflict, or at least an imbalance that gives the relationship a little momentum. This doesn’t mean they are openly antagonistic, but they shouldn’t be all roses either.
+Os bos aspectos de relación deberían introducir ou deixar ver un conflito, ou polo menos un desequilibrio que dea certa tensión á relación. Isto non quere dicir que sexan inimigos declarados, pero tampouco debera ser todo sorrisos.
 
-If you wish, you can wait to write down relationship aspects until everyone has more or less completed their characters.
+Se preferides, podedes esperar a escribir os aspectos de relación até que todas tiveren prácticamente completadas as súas personaxes.
 
-#### Free Aspects
- 
-You can make your character’s last two aspects anything you want—there are no restrictions beyond the obligation to fit the setting. Choose anything which you think will make your character more interesting, more fun to play, or better connected to the world they occupy.
+#### Aspectos libres
+
+Os derradeiros dous aspectos da túa personaxe poderán ser calquera cousa que quixeres: non hai restricións alén da obriga de encaixaren coa ambientación. Escolle aquilo que pensas que fará a túa personaxe máis interesante, máis divertida de xogar, ou máis conectada co mundo que habita.
+
 
 ### Skills
 
