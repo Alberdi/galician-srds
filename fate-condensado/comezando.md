@@ -98,26 +98,25 @@ En _Fate Condensado_, e en Fate en xeral, os niveis organízanse na seguinte esc
 
 Descríbense a continuación estas habilidades:
 
-*   **Academics**
-*   **Athletics**
-*   **Burglary**
-*   **Contacts**
-*   **Crafts**
-*   **Deceive**
-*   **Drive**
-*   **Empathy**
-*   **Fight**
-*   **Investigate**
-*   **Lore**
-*   **Notice**
-*   **Physique**
-*   **Provoke**
-*   **Rapport**
-*   **Resources**
-*   **Shoot**
-*   **Stealth**
-*   **Will**
-
+* **Aparellos**
+* **Atletismo**
+* **Condución**
+* **Contactos**
+* **Discreción**
+* **Empatía**
+* **Engano**
+* **Erudición**
+* **Investigación**
+* **Pelexa**
+* **Percepción**
+* **Provocación**
+* **Recursos**
+* **Roubo**
+* **Saber**
+* **Sociabilidade**
+* **Tiro**
+* **Vigor**
+* **Vontade**
 
 **Aparellos**: Capacidade para construír ou romper maquinaria, ensamblar aparatos, e ser quen de argallar enxeños coma MacGyver. Os talentos de Aparellos permítenche ter sempre a man o trebello axeitado, dar bonus a construír ou romper cousas, e xustificar o uso de Aparellos en troques doutras habilidades como Roubo ou Coñecementos en determinadas circunstancias.
 
@@ -167,7 +166,7 @@ Cando constrúas a túa propia implementación de Fate, o primeiro no que debes 
 * Os niveis en Fate están estruturados para respaldar nichos de personaxe. Por iso, na predeterminada, as xogadoras comezan cunha forma de «pirámide». Asegúrate de que esa protección do nicho é posible calquera que for a lista que crees.
 * A mellor habilidade debería comezar por volta de excelente (+4). Podes subilo ou baixalo ao teu gusto, pero non perdas de vista o que iso significa para os niveis de dificultade e das habilidades opostas ás que se enfrontarán as túas PX.
 
-<example>Federica decide que quere facer unha partida de Fate no espazo, cunha lista de habilidades máis curta centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súa xogadoras que repartan os seus niveis da seguinte forma: un en excelente (+4), dous en bo (+3), tres en razoable (+2), dous en regular (+1) e un en mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.</example>
+<example>Federica decide facer unha partida de Fate no espazo, cunha lista de habilidades máis curta centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súas xogadoras que repartan os seus niveis da seguinte forma: un excelente (+4), dous bos (+3), tres razoables (+2), dous regulares (+1) e un mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.</example>
 
 Se estás a pensar en facer a túa propia lista de habilidades para a túa partida e buscas ideas para inspirar a túa imaxinación, vai á sección de [regras opcionais](/fate-condensado/regras-opcionais).
 
