@@ -1,28 +1,33 @@
-# Getting Started
+---
+Title: "Comezando"
+Placing: 2
+---
 
-## Define Your Setting
+# Comezando
 
-Any game of Fate starts with defining your setting. This might be a concept your GM is bringing to the table, a popular media property the players are familiar with, or a collaborative world-building exercise involving everyone at the table. The setting discussion may be quick and light on detail, or may involve a detailed full session with the whole group, or anything in between.
+## Definide a ambientación
 
-Your choice of setting forms the basis of the table’s consensus about what is true, and what is acceptable in play and in character concepts. If your setting doesn’t have flying people in it, then a player deciding to make a flying-person character doesn’t pass muster. If your world involves shadowy organizations and deep conspiracies, players may expect story-lines free of clear-cut good-and-evil conflicts and devoid of farcical murder-clowns. It’s up to you!
+Todo xogo de Fate comeza definíndodes a vosa ambientación. Tanto pode ser un concepto que a DX presente á mesa como unha obra cultural que as xogadoras xa coñezan ou un exercicio colaborativo de creación do mundo entre todas. A conversa sobre a ambientación pode ser rápida e sen entrar en moitos detalles, ou pode supór toda unha sesión chea de debate, ou algo no medio.
 
-## Create Your Characters
+A escolla da ambientación formará a base do consenso da mesa sobre o que é certo e o que é aceptable no xogo e nos conceptos das personaxes. Se na vosa ambientación a xente non pode voar, unha xogadora que decida interpretar unha persoa que voe non cumpriría os requisitos. Se o voso mundo inclúe organizacións misteriosas e conspiracións ocultas, seguramente as xogadores esperen historias libres de conflitos maniqueos, pero tamén sen pallasos asasinos. Vós decidides!
 
-### Who Are You?
+## Creade as personaxes
 
-Once you’ve decided on a setting, it’s time for the players to <a id="_idTextAnchor000"></a>make characters—also called PCs. Each player takes on the role of one of the heroes of your story, controlling all their actions. You get to build the character you want to see in the world. Keep in mind that Fate characters are competent, dramatic, and willing to engage with the adventures ahead.
+### Quen es?
 
-Your PC is made up of several elements:
+Cando teñades acordado unha ambientación, tócalles ás xogadoras crearen as personaxes, tamén chamadas as PX. Cada xogadora toma o papel dunha das heroínas da historia, da que controlará todas as súas accións. Sodes vós quen construídes as personaxes que queredes ver no voso mundo. Lembrade que as personaxes en Fate son competentes, dramáticas e teñen vontade de enfrontarse ás aventuras que lles esperan.
 
-*   **Aspects:** phrases describing who your hero is
-*   **Skills:** your hero’s areas of relative expertise
-*   **Stunts:** remarkable things your hero does
-*   **Stress:** your hero’s ability to keep calm and carry on
-*   **Consequences:** the wounds, physical and mental, your hero can endure
-*   **Refresh:** a measure of your hero’s narrative agency
-*   **Finishing Touches:** your hero’s personal details
+A túa PX componse dos seguintes elementos:
 
-### Aspects
+*   **Aspectos:** frases que describen quen é a túa heroína
+*   **Habilidades:** as áreas de pericia da túa heroína
+*   **Talentos:** as cousas salientables que fai a túa heroína
+*   **Estrés:** a capacidade da túa heroína para manter a calmar e tirar para diante
+*   **Consecuencias:** as feridas, físicas e mentais, que é quen de soportar a túa heroína
+*   **Recarga:** unha medida da axencia narrativa da túa heroína
+*   **Derradeiros toques:** os detalles personais da túa heroína
+
+### Aspectos
 
 **Aspects** are short phrases that describe who your character is or what is important to them. They can relate to your character’s physical or mental qualities, history, beliefs, training, relationships, or even particularly important equipment.
 
@@ -51,7 +56,7 @@ Good relationship aspects should introduce or hint at conflict, or at least an i
 If you wish, you can wait to write down relationship aspects until everyone has more or less completed their characters.
 
 #### Free Aspects
-
+ 
 You can make your character’s last two aspects anything you want—there are no restrictions beyond the obligation to fit the setting. Choose anything which you think will make your character more interesting, more fun to play, or better connected to the world they occupy.
 
 ### Skills
