@@ -7,25 +7,25 @@ Placing: 2
 
 ## Definide a ambientación
 
-Todo xogo de Fate comeza definíndodes a vosa ambientación. Tanto pode ser un concepto que a DX presente á mesa como unha obra cultural que as xogadoras xa coñezan ou un exercicio colaborativo de creación do mundo entre todas. A conversa sobre a ambientación pode ser rápida e sen entrar en moitos detalles, ou pode supór toda unha sesión chea de debate, ou algo no medio.
+Todo xogo de Fate comeza definíndodes a vosa ambientación. Tanto pode ser un concepto que a DX presente á mesa, como unha obra cultural que as xogadoras xa coñezan, ou un exercicio colaborativo de creación do mundo entre todas. A conversa sobre a ambientación pode discorrer rápida e sen entrar en moitos detalles, ou pode supór toda unha sesión chea de debate, ou algo no medio.
 
-A escolla da ambientación formará a base do consenso da mesa sobre o que é certo e o que é aceptable no xogo e nos conceptos das personaxes. Se na vosa ambientación a xente non pode voar, unha xogadora que decida interpretar unha persoa que voe non cumpriría os requisitos. Se o voso mundo inclúe organizacións misteriosas e conspiracións ocultas, seguramente as xogadores esperen historias libres de conflitos maniqueos, pero tamén sen pallasos asasinos. Vós decidides!
+Nesa escolla da ambientación se baseará o consenso da mesa sobre o que é certo e o que é aceptable no xogo e nos conceptos das personaxes. Se na vosa ambientación a xente non pode voar, unha xogadora que decida interpretar unha persoa que voa non cumpriría os requisitos. Se o voso mundo trata sobre organizacións misteriosas e conspiracións ocultas, seguramente as xogadores esperen historias onde o ben e o mal operen nunha escala de grises e non aparezan pallasos asasinos. Vós decidides!
 
 ## Creade as personaxes
 
 ### Quen es?
 
-Cando teñades acordado unha ambientación, tócalles ás xogadoras crearen as personaxes, tamén chamadas as PX. Cada xogadora toma o papel dunha das heroínas da historia, da que controlará todas as súas accións. Sodes vós quen construídes as personaxes que queredes ver no voso mundo. Lembrade que as personaxes en Fate son competentes, dramáticas e teñen vontade de enfrontarse ás aventuras que lles esperan.
+Cando teñades acordada unha ambientación, tócalles ás xogadoras crearen as personaxes, tamén chamadas as PX. Cada xogadora toma o papel dunha das heroínas da historia, da que controlará todas as súas accións. Sodes vós quen construídes as personaxes que queredes ver no voso mundo. Lembrade que as personaxes en Fate son competentes, dramáticas e teñen vontade de enfrontarse ás aventuras que lles esperan.
 
 A túa PX componse dos seguintes elementos:
 
 *   **Aspectos:** frases que describen quen é a túa heroína
 *   **Habilidades:** as áreas de pericia da túa heroína
 *   **Talentos:** as cousas salientables que fai a túa heroína
-*   **Estrés:** a capacidade da túa heroína para manter a calmar e tirar para diante
+*   **Estrés:** a capacidade da túa heroína para manter a calma e tirar para diante
 *   **Consecuencias:** as feridas, físicas e mentais, que é quen de soportar a túa heroína
 *   **Recarga:** unha medida da axencia narrativa da túa heroína
-*   **Derradeiros toques:** os detalles personais da túa heroína
+*   **Derradeiros toques:** os detalles persoais da túa heroína
 
 ### Aspectos
 

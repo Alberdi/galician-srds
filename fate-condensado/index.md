@@ -9,7 +9,7 @@ Fate Condensado ©2020 Evil Hat Productions, LLC.
 
 Consulta as páxinas de licencia sitas en [http://www.faterpg.com/licensing](http://www.faterpg.com/licensing/) para máis detalles.
 
-Este é o Documento de Referencia do Sistema a ser usado coa licencia Creative Commons Atribución 3.0 Sen adaptar. **A seguinte atribución debe de proveerse no teu texto, onde quera que poñas o teu propio copyright e no mesmo tamaño que o teu texto de copyright:**
+Este é o Documento de Referencia do Sistema a ser usado coa licencia Creative Commons Atribución 3.0 Sen adaptar. **A seguinte atribución debe de proveerse no teu texto, onde queira que poñas o teu propio copyright e no mesmo tamaño que o teu texto de copyright:**
 
 Este traballo baséase en Fate Condensado (localizado en http://www.faterpg.com/), un produto de Evil Hat Productions LLC desenvolvido, creado e editado por PK Sullivan, Ed Turner, Leonard Balsera, Fred Hicks, Richard Bellingham, Robert Hanz, Ryan Macklin e Sophie Lagacé, e licenciado para o noso uso baixo a licencia Creative Commons Atribución 3.0 Sen adaptar (https://creativecommons.org/licenses/by/3.0/deed.gl).
 
@@ -23,7 +23,9 @@ Baseado no sistema Fate Básico obra de Leonard Balsera, Brian Engard, Jeremy Ke
 
 O sistema de orde de turnos baséase en *“Accidentally Designing Marvel’s Action Order System”*, escrito por Fred Hicks, o cal describe unha variante dun método orixinalmente inxeniado por Leonard Balsera.
 
-Partes desta obra baseánse en *Fateful Concepts: Hacking Contests* de Ryan Macklin, licenciado para o noso uso baixo a licencia Creative Commons Atribución 3.0 Sen adaptar,
+Partes desta obra baseánse en *Fateful Concepts: Hacking Contests* de Ryan Macklin, licenciado para o noso uso baixo a licencia Creative Commons Atribución 3.0 Sen adaptar.
+
+A fonte Fate Core é © Evil Hat Productions LLC e úsase baixo permiso. As iconas das catro accións foron deseñadas por Jeremy Keller.
 
 ### Créditos deste documento SRD
 
