@@ -66,7 +66,7 @@ Mentres que os aspectos definen quen é a túa personaxe, as **habilidades** mos
 
 Cada habilidade ten un **nivel**. Canto máis nivel, mellor é a personaxe nesa habilidade. En conxunto, as habilidades da túa personaxe representarán que accións se lle dan ben, de cales ten certo coñecemento, e cales non son o seu.
 
-Escolle as puntaxes da túa personaxe arranxadas nunha pirámide, coa habilidade máis alta no nivel excelente (+4), deste xeito:
+Escolle da seguinte forma os niveis das habilidades da túa personaxe, arranxadas nunha pirámide coa máis alta no nivel excelente (+4):
 
 * Unha habilidade excelente (+4)
 * Dúas habilidades boas (+3)
@@ -76,9 +76,9 @@ Escolle as puntaxes da túa personaxe arranxadas nunha pirámide, coa habilidade
 
 #### A escala de niveis
 
-En _Fate Condensado_, e en Fate en xeral, os niveis están organizados nunha escala como a de abaixo.
+En _Fate Condensado_, e en Fate en xeral, os niveis organízanse na seguinte escala:
 
-| Nivel | Adxetivo     |
+| Nivel | Adxectivo     |
 | ----- | ------------ |
 | +8    | Lendario     |
 | +7    | Épico        |
@@ -94,9 +94,9 @@ En _Fate Condensado_, e en Fate en xeral, os niveis están organizados nunha esc
 | -3    | Catastrófico |
 | -4    | Horroroso    |
 
-#### Skill List
+#### Lista de habilidades
 
-Descriptions for these skills are found below.
+Descríbense a continuación estas habilidades:
 
 *   **Academics**
 *   **Athletics**
@@ -118,56 +118,58 @@ Descriptions for these skills are found below.
 *   **Stealth**
 *   **Will**
 
-**Academics:** Mundane, everyday human knowledge and education, including history, sciences, and medicine. Academics stunts often refer to specialized areas of knowledge and medical skills.
 
-**Athletics:** A measurement of physical potential. Athletics stunts focus on movement—running, jumping, parkour—and dodging attacks.
+**Aparellos**: Capacidade para construír ou romper maquinaria, ensamblar aparatos, e ser quen de argallar enxeños coma MacGyver. Os talentos de Aparellos permítenche ter sempre a man o trebello axeitado, dar bonus a construír ou romper cousas, e xustificar o uso de Aparellos en troques doutras habilidades como Roubo ou Coñecementos en determinadas circunstancias.
 
-**Burglary:** Knowledge of and ability to bypass security systems, pick pockets, and generally commit crimes. Burglary stunts give bonuses to the various stages of committing a crime, from the planning to the execution and escape.
+**Atletismo**: Unha medida do potencial físico. Os talentos de Atletismo céntranse nos movementos (correr, saltar, facer parkour) e en esquivar os ataques.
 
-**Contacts:** Knowledge of the right people and connections that can help you. Contacts stunts give you ready allies and an information network wherever you go in the world.
+**Condución**: Control de vehículos nas situacións máis esixentes, facendo manobras arrevesadas e sacándolles todo o partido. Os talentos de Condución poden ser manobras senlleiras, un vehículo especial de teu, ou a capacidade para usares Condución en troques doutra habilidade como Roubo ou Coñecementos en determinadas circunstancias.
 
-**Crafts:** Ability to make or break machinery, build contraptions, and pull off MacGyver-esque feats of ingenuity. Crafts stunts let you have the gizmo on hand, give bonuses to building and breaking things, and provide justification for using Crafts in place of skills like Burglary or Academics under certain circumstances.
+**Contactos**: Coñecemento da xente adecuada e das conexións que te poden servir de axuda. Os talentos de Contactos danche aliados dispostos e unha rede de información alí onde quera que vaias no mundo.
 
-**Deceive:** Ability to lie and cheat convincingly and with aplomb. Deceive stunts might improve your ability to tell a particular breed of lie or help invent false identities.
+**Discreción**: Permanecer sen ser visto ou oído e escapar cando necesitas agocharte. Os talentos de Discreción permítenche desaparecer á vista de todos, camuflarte nas multitudes ou avanzar polas sombras sen te percibiren.
 
-**Drive:** Controlling vehicles under the most grueling circumstances, pulling wicked maneuvers, and simply getting the most out of your ride. Drive stunts can be signature maneuvers, a special vehicle of your own, or the ability to use Drive in place of a skill like Burglary or Academics under certain circumstances.
+**Empatía**: Capacidade para xulgar axeitadamente o humor e as emocións da xente. Os talentos de Empatía poden tratar sobre xulgar unha multitude, detectar mentiras, ou axudar a outras persoas a se recuperaren de consecuencias mentais.
 
-**Empathy:** Ability to accurately judge someone’s mood and intentions. Empathy stunts can be about judging a crowd, picking up on lies, or helping others recover from mental consequences.
+**Engano**: Capacidade para mentir e trampear convincentemente sen que se note. Os talentos de Engano poden mellorar a túa capacidade para contares un tipo específico de mentira ou inventares identidades falsas.
 
-**Fight:** Ability to excel at hand-to-hand combat, whether with weapons or fists. Fight stunts include signature weapons and special techniques.
+**Erudición**: Educación e coñecementos humanos mundanos, incluíndo historia, ciencias e medicina. Os talentos de Erudición adoitan referirse a áreas específicas de coñecemento e habelencias médicas.
 
-**Investigate:** Deliberate, careful study and puzzling out mysteries. Use this to piece together clues or reconstruct a crime scene. Investigate stunts help you form brilliant deductions or piece together information more quickly.
+**Investigación**: Estudo coidadoso e deliberado e resolución de misterios. Usa esta habilidade para relacionar pistas ou reconstruír a escena dun crime. Os talentos de Investigación axúdante a faceres brillantes deducións ou averiguar información máis axiña.
 
-**Lore:** Specialized, arcane knowledge that falls outside of the scope of Academics, including supernatural topics of one sort or another. This is where the weird stuff happens. Lore stunts often support practical applications of your arcane knowledge, such as casting spells. Some settings may remove Lore, replace it with a different skill, or combine it with Academics.
+**Pelexa**: Capacidade para destacar nos combates corpo a corpo, sexa con armas ou cos puños. Os talentos de Pelexa inclúen armas distintivas e técnicas especiais.
 
-**Notice:** Ability to pick up details in the moment, spot trouble before it happens, and generally be perceptive. It contrasts Investigate, which is for slow, deliberate observation. Notice stunts sharpen your senses, improve your reaction time, or make you harder to sneak up on.
+**Percepción**: Capacidade para reparar en detalles ao instante, ver vir os problemas antes de que acontezan, e en xeral ser moi observador. Contrástase con Investigación, que é para a contemplación pausada e deliberada. Os talentos de Percepción agudizan os teus sentidos, melloran o teu tempo de reacción e fan máis difícil collerte por sorpresa.
 
-**Physique:** Raw power and durability. Physique stunts let you perform superhuman feats of strength, throw your weight around while wrestling, and shrug off physical consequences. In addition, a high Physique rating gives you more physical stress or consequence slots (**page XX**).
+**Provocación**: Capacidade para mangonear á xente para actuaren como ti queres. É unha interacción sucia e manipulativa, non positiva. Os talentos de Provocación permítenche convencer aos opoñentes de actuaren imprudentemente, volverlles agresivos contra ti, ou mesmo asustalos (asumindo que poden sentir medo).
 
-**Provoke:** Ability to push people to act the way you want them to. It’s coarse and manipulative, not a positive interaction. Provoke stunts let you push opponents into foolhardy action, draw aggression toward you, or scare enemies (assuming they can feel fear).
+**Recursos**: Acceso a bens materiais, non só cartos ou propiedade directa. Pode representar a túa capacidade para tomares prestado das túas amizades ou para faceres uso da armería dunha organización. Os talentos de Recursos permítenche usar Recursos en troques de Sociabilidade ou Contactos ou danche invocacións de balde extra cando pagas polo mellor servizo.
 
-**Rapport:** Building connections with others and working together. Where Provoke is manipulation, Rapport is sincerity, trust, and goodwill. Rapport stunts let you sway the crowd, improve relationships, or build contacts.
+**Roubo**: Coñecemento dos diferentes sistemas de seguridade e capacidade para burlalos, para furtar e para perpetrar delitos en xeral. Os talentos de Roubo dan bonuses ás diferentes partes de cometer un crime, desde a planificación ata a execución e a fuga.
 
-**Resources:** Access to material things, not just money or direct ownership. It might reflect your ability to borrow from friends or dip into an organization’s armory. Resources stunts let you use Resources in place of Rapport or Contacts or give you extra free invokes when you pay for the best.
+**Saber**: Coñecemento arcano especializado fóra do dominio de Erudición, incluíndo asuntos sobrenaturais de calquera índole. Aquí é onde se engloba todo o que é inquietante. Os talentos de Saber adoitan prover de aplicacions prácticas ao teu coñecemento arcano, como lanzar feitizos. Algunhas ambientacións poden quitar Saber, substituíla por unha habilidade distinta, ou fusionala con Erudición.
 
-**Shoot:** All forms of ranged combat, whether guns, throwing knives, or bow and arrow. Shoot stunts let you make called shots, quick-draw, or always have a gun handy.
+**Sociabilidade**: Establecer conexións cos outros e traballar xuntos. Se Provocación usa a manipulación, Sociabilidade usa a sinceridade, confianza e boa disposición. Os talentos de Sociabilidade permítenche convencer á xente, mellorar relacións, ou facer contactos.
 
-**Stealth:** Staying unseen or unheard and escaping when you need to hide. Stealth stunts let you vanish in plain sight, blend into crowds, or advance through shadows unseen.
+**Tiro**: Todo tipo de combate a distancia, sexan pistolas, lanzamento de coitelos, ou arco e frechas. Os talentos de Tiro permítenche facer disparos dirixidos, desenvaiñar rapidamente, ou ter sempre unha pistola a man.
 
-**Will:** Mental fortitude, the ability to overcome temptation and to withstand trauma. Will stunts let you ignore mental consequences, withstand the mental agony of strange powers, and hold steady against enemies who provoke you. In addition, a high Will rating gives you more mental stress or consequence slots (**page XX**).
+**Vigor**: Forza bruta e durabilidade. Os talentos de Vigor permítenche realizar fazañas sobrehumanas, aproveitar o teu peso ao loitares e desdeñares as consecuencias físicas. A maiores, [un nivel alto de Vigor](#estres-e-consecuencias) aumenta a túa barra de estrés físico ou engade outro espazo para consecuencias.
 
-#### Alternative Skill Lists
+**Vontade**: Fortaleza mental, a capacidade de sobrepoñerte ás tentacións e soportar os traumas. Os talentos de Vontade permítenche desdeñar as consecuencias mentais, resistires a agonía mental de poderes estraños, e manter a calma contra os inimigos que te provocan. A maiores, [un nivel alto de Vontade](#estres-e-consecuencias) aumenta a túa barra de estrés mental ou engade outro espazo para consecuencias.
 
-When building your own implementation of Fate, the first thing to think about is whether or not you’ll keep the same skill list. Often you can work with the one given, combining, changing, or splitting apart a few of the skills given. But it’s possible that the granularity of the default example skill list we’ve given above isn’t to your liking. Here are some things to think about.
 
-*   The default skill list has 19 skills in it, and players rate their characters above the Mediocre (+0) default in 10 of them. If you change the number of skills, you may want to change how the ratings are allocated.
-*   Our default skills are focused on answering the question “what can you do?”—but your list doesn’t need to follow in line with that. You might want a list focused on “What do you believe?”, the question “How do you do things?” (as with approaches in _Fate Accelerated_), job-roles in a crew of grifters and thieves, and so on.
-*   Skill ratings in Fate are structured to support character niches. That’s why, in the default, players start with a “pyramid” shape. Make sure niche protection is possible in whatever new list you create.
-*   The best starting skill should come in around Great (+4). You can alter this up or down as you see fit, but make sure to keep an eye on what that means for the difficulty and opposing skill ratings your PCs will face.
+#### Listas alternativas de habilidades
 
-Fred decides he wants to do a space-faring Fate game with a shorter skill list that’s focused on action-words. He settles on this 9-item skill list: Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker, and Will. He also likes the idea of a “diamond” shape for skill ratings rather than a pyramid, so he has players rate their starting skills as follows: 1 at Great (+4), 2 at Good (+3), 3 at Fair (+2), 2 at Average (+1), and 1 at Mediocre (+0). His PCs will have a lot of overlap and core competencies due to the fat middle of his diamond, while still enjoying some niche protections at the top of the diamond’s “point.”
+Cando constrúas a túa propia implementación de Fate, o primeiro no que debes pensar es en se manterás ou non a mesma lista de habilidades. A miúdo poderás traballar coa que che damos, combinando, trocando ou dividindo algunhas delas. Pero é posible que a granularidade da lista predeterminada de exemplo non sexa do teu agrado. Aquí tes algunhas cousas nas que cavilar:
 
-If you’re considering making your own skill list for your game and are looking for some ideas to kick-start your imagination, see **page XX.**
+* A lista predeterminada ten 19 habilidades, e as xogadoras soben o nivel das súas personaxes por riba de Mediocre (+0) en 10 delas. Se mudas o número de habilidades, pode que queiras mudar tamén como se distribúen os niveis.
+* As nosas habilidades predeterminadas céntranse en responder a pregunta «que podes facer?», pero a túa lista non ten por que facer o mesmo. Pode que queiras unha lista centrada en «en que cres?», na pregunta «como fas as cousas?» (como nos enfoques de _Fate Acelerado_), nos roles nunha banda de ladróns e estafadores, etcétera.
+* Os niveis en Fate están estruturados para respaldar nichos de personaxe. Por iso, na predeterminada, as xogadoras comezan cunha forma de «pirámide». Asegúrate de que esa protección do nicho é posible calquera que for a lista que crees.
+* A mellor habilidade debería comezar por volta de excelente (+4). Podes subilo ou baixalo ao teu gusto, pero non perdas de vista o que iso significa para os niveis de dificultade e das habilidades opostas ás que se enfrontarán as túas PX.
+
+<example>Federica decide que quere facer unha partida de Fate no espazo, cunha lista de habilidades máis curta centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súa xogadoras que repartan os seus niveis da seguinte forma: un en excelente (+4), dous en bo (+3), tres en razoable (+2), dous en regular (+1) e un en mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.</example>
+
+Se estás a pensar en facer a túa propia lista de habilidades para a túa partida e buscas ideas para inspirar a túa imaxinación, vai á sección de [regras opcionais](/fate-condensado/regras-opcionais).
 
 ### Refresh
 
