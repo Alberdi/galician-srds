@@ -195,7 +195,9 @@ Formula este tipo de talento deste xeito:
 
 _Posto que **[describe de que forma eres abraiante ou tes un equipamento incrible]**, obteño +2 ao usar **[escolle unha habilidade]** para **[elixe: superar, crear unha vantaxe, atacar, defender]** cando **[describe unha circunstancia]**._
 
-<example><strong>Exemplo de talento que outorga bonus</strong>: Posto que son <strong>un francotirador do exército<</strong>, obteño +2 ao usar <strong>Tiro</strong> para <strong>atacar</strong> cando <strong>teño un albo <aspect>No punto de mira</aspect></strong>.</example>
+Exemplo de talento que outorga bonus:
+
+<example>Posto que son <strong>un francotirador do exército</strong>, obteño +2 ao usar <strong>Tiro</strong> para <strong>atacar</strong> cando <strong>teño un albo <aspect>No punto de mira</aspect></strong>.</example>
 
 **Talentos que mudan as regras**: O segundo tipo de talento **muda as regras do xogo**. Esta categoría é ampla e inclúe, pero non se limita, ao seguinte:
 
@@ -209,7 +211,9 @@ Formula este tipo de talento deste xeito:
 
 _Posto que **[describe de que forma eres abraiante ou tes un equipamento incrible]**, podo **[describe a túa capacidade especial]**, pero só **[describe a circunstancia ou limitación]**._
 
-<example><strong>Exemplo de talento que muda as regras:</strong> Posto que <strong>non creo na maxia</strong>, podo <strong>desdeñar os efectos dunha habilidade sobrenatural</strong>, pero <strong>só unha vez por sesión de xogo</strong>.</example>
+Exemplo de talento que muda as regras:
+
+<example>Posto que <strong>non creo na maxia</strong>, podo <strong>desdeñar os efectos dunha habilidade sobrenatural</strong>, pero <strong>só unha vez por sesión de xogo</strong>.</example>
 
 
 ### Estrés e consecuencias
