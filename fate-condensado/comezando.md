@@ -166,7 +166,7 @@ Cando constrúas a túa propia implementación de Fate, o primeiro no que debes 
 * Os niveis en Fate están estruturados para respaldar nichos de personaxe. Por iso, na predeterminada, as xogadoras comezan cunha forma de «pirámide». Asegúrate de que esa protección do nicho é posible calquera que for a lista que crees.
 * A mellor habilidade debería comezar por volta de excelente (+4). Podes subilo ou baixalo ao teu gusto, pero non perdas de vista o que iso significa para os niveis de dificultade e das habilidades opostas ás que se enfrontarán as túas PX.
 
-<example>Federica decide facer unha partida de Fate no espazo, cunha lista de habilidades máis breve centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súas xogadoras que repartan os seus niveis da seguinte forma: un excelente (+4), dous bos (+3), tres razoables (+2), dous regulares (+1) e un mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.</example>
+> Federica decide facer unha partida de Fate no espazo, cunha lista de habilidades máis breve centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súas xogadoras que repartan os seus niveis da seguinte forma: un excelente (+4), dous bos (+3), tres razoables (+2), dous regulares (+1) e un mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.
 
 Se estás a pensar en facer a túa propia lista de habilidades para a túa partida e buscas ideas para inspirar a túa imaxinación, vai á sección de [regras opcionais](/fate-condensado/regras-opcionais#mudar-a-lista-de-habilidades).
 
@@ -197,7 +197,7 @@ _Posto que **[describe de que forma eres abraiante ou tes un equipamento incribl
 
 Exemplo de talento que outorga bonus:
 
-<example>Posto que son <strong>un francotirador do exército</strong>, obteño +2 ao usar <strong>Tiro</strong> para <strong>atacar</strong> cando <strong>teño un albo <aspect>No punto de mira</aspect></strong>.</example>
+> Posto que son **un francotirador do exército**, obteño +2 ao usar **Tiro** para **atacar** cando **teño un albo <aspect>No punto de mira</aspect>**.
 
 **Talentos que mudan as regras**: O segundo tipo de talento **muda as regras do xogo**. Esta categoría é ampla e inclúe, pero non se limita, ao seguinte:
 
@@ -213,7 +213,7 @@ _Posto que **[describe de que forma eres abraiante ou tes un equipamento incribl
 
 Exemplo de talento que muda as regras:
 
-<example>Posto que <strong>non creo na maxia</strong>, podo <strong>desdeñar os efectos dunha habilidade sobrenatural</strong>, pero <strong>só unha vez por sesión de xogo</strong>.</example>
+> Posto que **non creo na maxia**, podo **desdeñar os efectos dunha habilidade sobrenatural**, pero **só unha vez por sesión de xogo**.
 
 
 ### Estrés e consecuencias
