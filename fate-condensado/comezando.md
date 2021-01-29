@@ -176,11 +176,11 @@ A túa **recarga** é o número mínimo de [**puntos de fado**](/fate-condensado
 
 Comezas cada sesión con, polo menos, tantos puntos de fado como a túa recarga. Lembra deixar anotado cantos puntos de fado che sobran ao final de cada sesión: se tiveres máis puntos de fado que a túa recarga, comezarás a seguinte sesión con tantos puntos de fado como terminaches a anterior.
 
-<example>Carlota gañou unha morea de puntos de fado durante a sesión de hoxe, chegando ao final con 5 puntos de fado. A súa recarga é 2, así que Carlota comezará a seguinte sesión con 5 puntos de fado. Pero Eloisa chegou ao final de sesión con apenas un punto de fado. A súa recarga é 3, así que comezará a seguinte sesión con 3 puntos de fado, non só o un que tiña ao final.</example>
+<example>Carlota gañou unha morea de puntos de fado durante a sesión de hoxe, chegando ao final con cinco puntos de fado. A súa recarga é 2, así que Carlota comezará a seguinte sesión con cinco puntos de fado. Pero Eloisa chegou ao final de sesión con apenas un punto de fado. A súa recarga é 3, así que comezará a seguinte sesión con tres puntos de fado, non só o un que tiña ao final.</example>
 
 ### Talentos
 
-Aínda que todas as perxonaxes teñen acceso a todas as habilidades, mesmo se son mediocres (+0) na meirande parte delas, a túa personaxe ten uns **talentos** únicos. Os talentos son as técnicas abraiantes, os trucos ou os equipamentos que fan á túa personaxe única e interesante. Mentres que as habilidades nos falan das competencias xerais dunha personaxe, os talentos tratan das áreas específicas de pericia; a maioría deles danche un bonus nunhas circunstancias especiais ou déixanche facer algo que outras personaxes simplemente non poden.
+Aínda que todas as perxonaxes teñen acceso a todas as habilidades, mesmo se son mediocres (+0) na meirande parte delas, a túa personaxe ten uns **talentos** únicos. Os talentos son as técnicas abraiantes, trucos e equipamentos que fan á túa personaxe única e interesante. Mentres que as habilidades nos falan das competencias xerais dunha personaxe, os talentos tratan das áreas específicas de pericia; a maioría deles danche un bonus nunhas circunstancias especiais ou déixanche facer algo que outras personaxes simplemente non poden.
 
 A túa personaxe comeza con tres espazos para talentos. Non tes que definilos todos xa mesmo, podes ir enchéndoos segundo xogades. Podes adquirir máis talentos gastando 1 de recarga por cada un, até teres un mínimo de 1 de recarga.
 
@@ -195,7 +195,7 @@ Formula este tipo de talento deste xeito:
 
 _Posto que **[describe de que forma eres abraiante ou tes un equipamento incrible]**, obteño +2 ao usar **[escolle unha habilidade]** para **[elixe: superar, crear unha vantaxe, atacar, defender]** cando **[describe unha circunstancia]**._
 
-<example>**Exemplo de talento que outorga bonus**: Posto que son **un francotirador do exército**, obteño +2 ao usar **Tiro** para **atacar** cando **teño un albo <aspect>No punto de mira</aspect>**.</example>
+<example><strong>Exemplo de talento que outorga bonus</strong>: Posto que son <strong>un francotirador do exército<</strong>, obteño +2 ao usar <strong>Tiro</strong> para <strong>atacar</strong> cando <strong>teño un albo <aspect>No punto de mira</aspect></strong>.</example>
 
 **Talentos que mudan as regras**: O segundo tipo de talento **muda as regras do xogo**. Esta categoría é ampla e inclúe, pero non se limita, ao seguinte:
 
@@ -203,41 +203,41 @@ _Posto que **[describe de que forma eres abraiante ou tes un equipamento incribl
 * **Usar unha acción cunha habilidade que normalmente non se usa con ela.** Por exemplo, permitir que unha personaxe use Discreción para anavallar a un oponente desde as sombras (que típicamente usaría Pelexa).
 * **Darlle a unha personaxe outro tipo de bonus ás habilidades que sexa máis ou menos equivalente a un +2**. Por exemplo, cando un orador experimentado crea unha vantaxe con Sociabilidade, obtén unha invocación de balde extra.
 * **Permitir a unha personaxe declarar que un feito menor sempre é certo.** Por exemplo, un experto en supervivencia sempre ten consigo obxectos de supervivencia (como mistos), mesmo en situacións improbábeis.
-* **Permitir a unha personaxe facer unha excepción concreta ás regras.** Por exemplo, unha personaxe pode ter máis dúas caixas de estrés ou outro espazo de consecuencia leve.
+* **Permitir a unha personaxe facer unha excepción concreta ás regras.** Por exemplo, unha personaxe pode ter dúas caixas máis de estrés ou outro espazo de consecuencia leve.
 
 Formula este tipo de talento deste xeito:
 
 _Posto que **[describe de que forma eres abraiante ou tes un equipamento incrible]**, podo **[describe a túa capacidade especial]**, pero só **[describe a circunstancia ou limitación]**._
 
-<example>**Exemplo de talento que muda as regras:** Posto que **non creo na maxia**, podo **desdeñar os efectos dunha habilidade sobrenatural**, pero **só unha vez por sesión de xogo**.</example>
+<example><strong>Exemplo de talento que muda as regras:</strong> Posto que <strong>non creo na maxia</strong>, podo <strong>desdeñar os efectos dunha habilidade sobrenatural</strong>, pero <strong>só unha vez por sesión de xogo</strong>.</example>
 
 
 ### Estrés e consecuencias
 
-O **estrés** e as **consecuencias** son a forma na que a túa personaxe resiste os envites mentais e físicos das súas aventuras. As personaxes teñen polo menos tres caixas de un punto para estrés físico e polo menos tres caixas de un punto para estrés mental. Tamén teñen un espazo para consecuencias leves, outro para moderadas e outro máis para as graves.
+O **estrés** e as **consecuencias** son a forma na que a túa personaxe resiste os envites mentais e físicos das súas aventuras. As personaxes teñen polo menos tres caixas de 1 punto para estrés físico e polo menos tres caixas de 1 punto para estrés mental. Tamén teñen un espazo para consecuencias leves, outro para moderadas e outro máis para as graves.
 
 O teu nivel en Vigor condiciona cantas caixas de estrés físico tes en total. Vontade fai o mesmo para o teu estrés mental. Consulta a seguinte táboa:
 
 | Vigor/Vontade                 | Estrés físico/mental |
 | ----------------------------- | -------------------- |
-| Mediocre (+0)                 | <fate>111</fate>     |
-| Regular (+1) ou razoable (+2) | <fate>111 1</fate>   |
-| Bo (+3) ou excelente (+4)     | <fate>111 111</fate> |
-| Soberbio (+5) ou maior        | <fate>111 111</fate> e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
+| Mediocre (+0)                 | <stress>1</stress><stress>1</stress><stress>1</stress>     |
+| Regular (+1) ou razoable (+2) | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress>   |
+| Bo (+3) ou excelente (+4)     | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> |
+| Soberbio (+5) ou maior        | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
 
-Aprenderás mais de como funcionan o estrés e as consecuencias na sección [_Recibir dano_](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano).
+Aprenderás máis sobre como funcionan o estrés e as consecuencias na sección [_Recibir dano_](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano).
 
 #### Para aí, isto non é o que lembro eu!
 
-En _Fate Condensado_ usamos apenas caixas de estrés de 1 punto. Tanto _Fate Básico_ como _Fate Acelerado_ usaban unha serie de caixas de valores crecentes (unha caixa de 1 punto, unha caixa de 2 puntos, etc). Podes usar ese tipo de caixas se queres; nós para esta versión decidimos quedarnos coas caixas de 1 punto porque son máis sinxelas: co outro metodo, a xente leábase máis a miúdo.
+En _Fate Condensado_ usamos soamente caixas de estrés de 1 punto. Tanto _Fate Básico_ como _Fate Acelerado_ usaban unha serie de caixas de valores crecentes (unha caixa de 1 punto, unha caixa de 2 puntos, etc). Podes usar ese tipo de caixas se queres, nós para esta versión decidimos quedarnos coas caixas de 1 punto porque son máis sinxelas; co outro metodo, a xente leábase máis a miúdo.
 
 Hai outras particularidades deste estilo que cómpre que teñas en conta.
 
 * Como verás na sección [_Recibir dano_](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano), coas caixas de 1 punto podes marcar tantas como ti queiras cando che impactan (no estilo crecente de Fate Básico, pola contra, estabas limitado a marcar unha caixa por impacto).
-* Este estilo acompaña ao costume de Fate Básico de ter barras separadas para estrés físico e mental, en troques de unha barra unificada como en Fate Acelerado. Se prefires unha barra unificada, engade tres caixas máis para compensar, e usa _ou_ Vigor _ou_ Vontade, o de máis nivel, para alongala como se indicou na táboa.
-* Unha absorción de tres puntos en cada barra non che é moito! Se notades que as personaxes se sinten un pouco fráxiles nas partidas, talvez queirades engadir unha ou dúas caixas máis á cantidade predeterminada. Todo depende de como de rapidas se chegue ás consecuencias. (Co estilo vello, unha barra con <fate>12</fate> absorbía entre 2 e 3 de estrés, <fate>123</fate> de 3 a 6, <fate>1234</fate> de 4 a 10).
+* Este estilo acompaña ao costume de Fate Básico de ter barras separadas para estrés físico e mental, en troques de unha barra unificada como en Fate Acelerado. Se prefires unha barra unificada, engade tres caixas máis para compensar, e usa _ou_ Vigor _ou_ Vontade, o de máis nivel, para alongala como se indicaba na táboa.
+* Unha absorción de tres puntos en cada barra non che é moito! Se notades que as personaxes se sinten un pouco fráxiles nas partidas, talvez queirades engadir unha ou dúas caixas máis á cantidade predeterminada. Todo depende de como de rápido vaian chegando as consecuencias. (Co estilo vello, unha barra con <stress>1</stress><stress>2</stress> absorbía entre 2 e 3 de estrés, <stress>1</stress><stress>2</stress><stress>3</stress> de 3 a 6, <stress>1</stress><stress>2</stress><stress>3</stress><stress>4</stress> de 4 a 10).
 
 
 ### Derradeiros detalles
 
-Dálle á personaxe un nome e unha descrición, e comparte a súa historia coas outras xogadores. Se ainda non escribiras o aspecto de relación, faino agora.
+Dálle á personaxe un nome e unha descrición, e comparte a súa historia coas outras xogadoras. Se ainda non escribiras o aspecto de relación, faino agora.
