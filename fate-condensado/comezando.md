@@ -17,7 +17,7 @@ Nesa escolla da ambientación se baseará o consenso da mesa sobre o que é cert
 
 Cando teñades acordada unha ambientación, tócalles ás xogadoras crearen as personaxes, tamén chamadas as PX. Cada xogadora toma o papel dunha das heroínas da historia, da que controlará todas as súas accións. Sodes vós quen construídes as personaxes que queredes ver no voso mundo. Lembrade que as personaxes en Fate son competentes, dramáticas e teñen vontade de enfrontarse ás aventuras que lles esperan.
 
-A túa PX componse dos seguintes elementos:
+As vosas PX compoñense dos seguintes elementos:
 
 *   **Aspectos:** frases que describen quen é a túa heroína
 *   **Habilidades:** as áreas de pericia da túa heroína
@@ -37,7 +37,7 @@ Tamén usaredes os aspectos en xogo para facer mudanzas á historia. Daránche p
 
 Para aprenderes máis sobre os aspectos e o que fai que un sexa bo, podes ler a sección [_Aspectos e puntos de fado_](/fate-condensado/aspectos-e-puntos-de-fado).
 
-**Para comezar, haslle dar á túa personaxe cinco aspectos**: un concepto, un problema, unha relación e outros dos libres. Comeza polo concepto e segue desde aí. 
+**No inicio, vaslle dar á túa personaxe cinco aspectos**: un concepto, un problema, unha relación e outros dos libres. Comeza polo concepto e segue desde aí. 
 
 #### Concepto
 
@@ -161,161 +161,83 @@ Descríbense a continuación estas habilidades:
 
 Cando constrúas a túa propia implementación de Fate, o primeiro no que debes pensar es en se manterás ou non a mesma lista de habilidades. A miúdo poderás traballar coa que che damos, combinando, trocando ou dividindo algunhas delas. Pero é posible que a granularidade da lista predeterminada de exemplo non sexa do teu agrado. Aquí tes algunhas cousas nas que cavilar:
 
-* A lista predeterminada ten 19 habilidades, e as xogadoras soben o nivel das súas personaxes por riba de Mediocre (+0) en 10 delas. Se mudas o número de habilidades, pode que queiras mudar tamén como se distribúen os niveis.
-* As nosas habilidades predeterminadas céntranse en responder a pregunta «que podes facer?», pero a túa lista non ten por que facer o mesmo. Pode que queiras unha lista centrada en «en que cres?», na pregunta «como fas as cousas?» (como nos enfoques de _Fate Acelerado_), nos roles nunha banda de ladróns e estafadores, etcétera.
+* A lista predeterminada ten 19 habilidades, e as xogadoras soben o nivel das súas personaxes por riba de mediocre (+0) en 10 delas. Se mudas o número de habilidades, pode que queiras mudar tamén como se distribúen os niveis.
+* As nosas habilidades predeterminadas céntranse en responder a pregunta «que podes facer?», pero a túa lista non ten por que facer o mesmo. Pode que queiras unha lista centrada en «en que cres?», na pregunta «como fas as cousas?» (igual que nos enfoques de _Fate Acelerado_), nos roles nunha banda de ladróns e estafadores, etcétera.
 * Os niveis en Fate están estruturados para respaldar nichos de personaxe. Por iso, na predeterminada, as xogadoras comezan cunha forma de «pirámide». Asegúrate de que esa protección do nicho é posible calquera que for a lista que crees.
 * A mellor habilidade debería comezar por volta de excelente (+4). Podes subilo ou baixalo ao teu gusto, pero non perdas de vista o que iso significa para os niveis de dificultade e das habilidades opostas ás que se enfrontarán as túas PX.
 
-<example>Federica decide facer unha partida de Fate no espazo, cunha lista de habilidades máis curta centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súas xogadoras que repartan os seus niveis da seguinte forma: un excelente (+4), dous bos (+3), tres razoables (+2), dous regulares (+1) e un mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.</example>
+<example>Federica decide facer unha partida de Fate no espazo, cunha lista de habilidades máis breve centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súas xogadoras que repartan os seus niveis da seguinte forma: un excelente (+4), dous bos (+3), tres razoables (+2), dous regulares (+1) e un mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.</example>
 
-Se estás a pensar en facer a túa propia lista de habilidades para a túa partida e buscas ideas para inspirar a túa imaxinación, vai á sección de [regras opcionais](/fate-condensado/regras-opcionais).
+Se estás a pensar en facer a túa propia lista de habilidades para a túa partida e buscas ideas para inspirar a túa imaxinación, vai á sección de [regras opcionais](/fate-condensado/regras-opcionais#mudar-a-lista-de-habilidades).
 
-### Refresh
+### Recarga
 
-Your **refresh** is the minimum number of **fate points** (**page XX**) your character begins with at the start of each session. Your character begins with a refresh of 3.
+A túa **recarga** é o número mínimo de [**puntos de fado**](/fate-condensado/aspectos-e-puntos-de-fado) cos que comeza a túa personaxe ao principio de cada sesión. A túa personaxe empeza cunha recarga de 3.
 
-Each session, you start with fate points at least equal to your refresh. Be sure to keep track of the fate points you have left at the end of each session of play—if you have more fate points than your refresh, you’ll start the next session with the fate points you ended this session with.
+Comezas cada sesión con, polo menos, tantos puntos de fado como a túa recarga. Lembra deixar anotado cantos puntos de fado che sobran ao final de cada sesión: se tiveres máis puntos de fado que a túa recarga, comezarás a seguinte sesión con tantos puntos de fado como terminaches a anterior.
 
-Charles earned a lot of fate points during today’s session, ending it with 5 fate points. His refresh is 2, so Charles will start the next session with 5 fate points. But Ethan ends the same session with just one fate point. His refresh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left over.
+<example>Carlota gañou unha morea de puntos de fado durante a sesión de hoxe, chegando ao final con 5 puntos de fado. A súa recarga é 2, así que Carlota comezará a seguinte sesión con 5 puntos de fado. Pero Eloisa chegou ao final de sesión con apenas un punto de fado. A súa recarga é 3, así que comezará a seguinte sesión con 3 puntos de fado, non só o un que tiña ao final.</example>
 
-### Stunts
+### Talentos
 
-While every character has access to all the skills—even if they are Mediocre (+0) at most of them—your character has some unique **stunts**. Stunts are the cool techniques, tricks, or bits of equipment that make your character unique and interesting. Where skills are about a character’s broad competencies, stunts are about specific areas of excellence; most of them give you a bonus in particular circumstances or let you do something that other characters simply can’t.
+Aínda que todas as perxonaxes teñen acceso a todas as habilidades, mesmo se son mediocres (+0) na meirande parte delas, a túa personaxe ten uns **talentos** únicos. Os talentos son as técnicas abraiantes, os trucos ou os equipamentos que fan á túa personaxe única e interesante. Mentres que as habilidades nos falan das competencias xerais dunha personaxe, os talentos tratan das áreas específicas de pericia; a maioría deles danche un bonus nunhas circunstancias especiais ou déixanche facer algo que outras personaxes simplemente non poden.
 
-Your character begins with three free stunt slots. You don’t have to define them all right away, and may fill them in as you play. You may purchase more stunts by spending 1 refresh each, to a minimum of 1 refresh.
+A túa personaxe comeza con tres espazos para talentos. Non tes que definilos todos xa mesmo, podes ir enchéndoos segundo xogades. Podes adquirir máis talentos gastando 1 de recarga por cada un, até teres un mínimo de 1 de recarga.
 
-#### Writing Stunts
 
-You write your own stunts when building a character. Broadly, there are two types of stunts.
+#### Escribir talentos
 
-**Bonus-granting stunts:** The first type of stunt **gives you a +2 bonus** when you use a named skill within certain parameters, usually limited to a specific type of action (**page XX**) and type of narrative circumstance.
+Os talentos escríbelos ti mesmo ao construíres a personaxe. A grandes trazos, hai dous tipos de talentos.
 
-Write this type of stunt as follows:
+**Talentos que outorgan bonus**: O primeiro tipo de talento **dáche un bonus +2** ao usares unha habilidade concreta dentro de certos parámetros, normalmente limitándote a [un tipo específico de acción](/fate-condensado/accions-e-roladas#accions) e circunstancia narrativa.
 
-Because I **[describe how you are amazing or have a cool bit of gear]**, I get a +2 when I use **[pick a skill]** to **[pick one: overcome, create an advantage, attack, defend]** when **[describe a circumstance]**.
+Formula este tipo de talento deste xeito:
 
-**Example Bonus-Granting Stunt:** Because I am **a military-trained sniper**, I get a +2 when I use **Shoot** to **attack** when **I have a target** **In My Sights**.
+_Posto que **[describe de que forma eres abraiante ou tes un equipamento incrible]**, obteño +2 ao usar **[escolle unha habilidade]** para **[elixe: superar, crear unha vantaxe, atacar, defender]** cando **[describe unha circunstancia]**._
 
-**Rule-changing stunts:** The second type of stunt **changes the rules of the game**. This is a broad category that includes, but is not limited to, the following:
+<example>**Exemplo de talento que outorga bonus**: Posto que son **un francotirador do exército**, obteño +2 ao usar **Tiro** para **atacar** cando **teño un albo <aspect>No punto de mira</aspect>**.</example>
 
-*   **Swapping which skills are used in a given situation.** For instance, a researcher might use Academics to perform a ritual, while anyone else would use Lore.
-*   **Using an action with a skill that isn’t normally used with it.** For instance, allowing a character to use Stealth to backstab an opponent from the shadows (which would typically be a use of Fight).
-*   **Giving a character a different kind of bonus to skills that’s roughly equivalent to a +2.** For instance, when a skilled orator creates an advantage with Rapport, it gets an extra free invoke.
-*   **Allowing a character to declare a minor fact is always true.** For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances.
-*   **Allowing a character to make a specific rules exception.** For instance, a character might have two more stress boxes or another mild consequence slot.
+**Talentos que mudan as regras**: O segundo tipo de talento **muda as regras do xogo**. Esta categoría é ampla e inclúe, pero non se limita, ao seguinte:
 
-Write this type of stunt as follows:
+* **Trocar que habilidades se usan nunha situación concreta.** Por exemplo, un investigador podería usar Erudición para realizar un ritual mentres que o resto do mundo usaría Saber.
+* **Usar unha acción cunha habilidade que normalmente non se usa con ela.** Por exemplo, permitir que unha personaxe use Discreción para anavallar a un oponente desde as sombras (que típicamente usaría Pelexa).
+* **Darlle a unha personaxe outro tipo de bonus ás habilidades que sexa máis ou menos equivalente a un +2**. Por exemplo, cando un orador experimentado crea unha vantaxe con Sociabilidade, obtén unha invocación de balde extra.
+* **Permitir a unha personaxe declarar que un feito menor sempre é certo.** Por exemplo, un experto en supervivencia sempre ten consigo obxectos de supervivencia (como mistos), mesmo en situacións improbábeis.
+* **Permitir a unha personaxe facer unha excepción concreta ás regras.** Por exemplo, unha personaxe pode ter máis dúas caixas de estrés ou outro espazo de consecuencia leve.
 
-Because I **[describe how you are amazing or have a cool bit of gear]**, I can **[describe your amazing feat]**, but only **[describe a circumstance or limitation]**.
+Formula este tipo de talento deste xeito:
 
-**Example Rule-Changing Stunt:** Because I **don’t believe in magic**, I can **ignore the effects of a supernatural ability**, but only **once per game session**.
+_Posto que **[describe de que forma eres abraiante ou tes un equipamento incrible]**, podo **[describe a túa capacidade especial]**, pero só **[describe a circunstancia ou limitación]**._
 
-### Stress and Consequences
+<example>**Exemplo de talento que muda as regras:** Posto que **non creo na maxia**, podo **desdeñar os efectos dunha habilidade sobrenatural**, pero **só unha vez por sesión de xogo**.</example>
 
-**<a id="_idTextAnchor002"></a>Stress** and **consequences** are how your character withstands the mental and physical toll of their adventures. Characters have at least three one-point boxes for physical stress and at least three one-point boxes for mental stress. They also get one slot each for mild, moderate, and severe consequences.
 
-Your rating in Physique affects how many total physical stress boxes you have. Will does the same for your mental stress. Refer to the following table:
+### Estrés e consecuencias
 
-<table id="table002">
+O **estrés** e as **consecuencias** son a forma na que a túa personaxe resiste os envites mentais e físicos das súas aventuras. As personaxes teñen polo menos tres caixas de un punto para estrés físico e polo menos tres caixas de un punto para estrés mental. Tamén teñen un espazo para consecuencias leves, outro para moderadas e outro máis para as graves.
 
-<tbody>
+O teu nivel en Vigor condiciona cantas caixas de estrés físico tes en total. Vontade fai o mesmo para o teu estrés mental. Consulta a seguinte táboa:
 
-<tr>
+| Vigor/Vontade                 | Estrés físico/mental |
+| ----------------------------- | -------------------- |
+| Mediocre (+0)                 | <fate>111</fate>     |
+| Regular (+1) ou razoable (+2) | <fate>111 1</fate>   |
+| Bo (+3) ou excelente (+4)     | <fate>111 111</fate> |
+| Soberbio (+5) ou maior        | <fate>111 111</fate> e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
 
-<td>
+Aprenderás mais de como funcionan o estrés e as consecuencias na sección [_Recibir dano_](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano).
 
-Physique/Will
+#### Para aí, isto non é o que lembro eu!
 
-</td>
+En _Fate Condensado_ usamos apenas caixas de estrés de 1 punto. Tanto _Fate Básico_ como _Fate Acelerado_ usaban unha serie de caixas de valores crecentes (unha caixa de 1 punto, unha caixa de 2 puntos, etc). Podes usar ese tipo de caixas se queres; nós para esta versión decidimos quedarnos coas caixas de 1 punto porque son máis sinxelas: co outro metodo, a xente leábase máis a miúdo.
 
-<td>
+Hai outras particularidades deste estilo que cómpre que teñas en conta.
 
-Physical/Mental Stress
+* Como verás na sección [_Recibir dano_](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano), coas caixas de 1 punto podes marcar tantas como ti queiras cando che impactan (no estilo crecente de Fate Básico, pola contra, estabas limitado a marcar unha caixa por impacto).
+* Este estilo acompaña ao costume de Fate Básico de ter barras separadas para estrés físico e mental, en troques de unha barra unificada como en Fate Acelerado. Se prefires unha barra unificada, engade tres caixas máis para compensar, e usa _ou_ Vigor _ou_ Vontade, o de máis nivel, para alongala como se indicou na táboa.
+* Unha absorción de tres puntos en cada barra non che é moito! Se notades que as personaxes se sinten un pouco fráxiles nas partidas, talvez queirades engadir unha ou dúas caixas máis á cantidade predeterminada. Todo depende de como de rapidas se chegue ás consecuencias. (Co estilo vello, unha barra con <fate>12</fate> absorbía entre 2 e 3 de estrés, <fate>123</fate> de 3 a 6, <fate>1234</fate> de 4 a 10).
 
-</td>
 
-</tr>
+### Derradeiros detalles
 
-<tr>
-
-<td>
-
-Mediocre (+0)
-
-</td>
-
-<td>
-
-**[1][1][1]**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Average (+1) or Fair (+2)
-
-</td>
-
-<td>
-
-**[1][1][1] [1]**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Good (+3) or Great (+4)
-
-</td>
-
-<td>
-
-**[1][1][1] [1][1][1]**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Superb (+5) and higher
-
-</td>
-
-<td>
-
-**[1][1][1] [1][1][1]** and a second mild consequence slot specifically for physical or mental hits
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-You’ll learn how stress and consequences work during play in _“Taking Harm”_ (**page XX**).
-
-#### Hang on, that’s not what I remember!
-
-In _Fate Condensed_, we’re using only one-point stress boxes. _Fate Core System_ and _Fate Accelerated_ both use a series of escalating-value boxes (one 1-point box, one 2-point box, etc). You can use that style of stress box if you like; for this version we decided to stick with one-point boxes because it’s simple—with the other method, folks can get confused just a little more easily.
-
-There are a few other angles on this style that you’ll want to keep in mind.
-
-*   As you’ll see on **page XX**, with 1-point boxes you may mark as many of them as you want when you get hit (the escalating-value style of Fate Core, meanwhile, has a “you can only mark one box per hit” proviso).
-*   This style goes with the Fate Core notion of separate Physical and Mental stress tracks, instead of a single unified track as with Fate Accelerated. If you’re inclined towards a unified track, add three more boxes to make up for it, and use the _higher_ of Physique or Will to lengthen it as indicated.
-*   Three points of stress absorption on one track is not a lot! If characters end up feeling a little fragile in play, you may want to add one or two boxes to the default quantity. It’s all about how fast the consequences hit. (With the older style, a **[1][2]** track absorbs 2 to 3 stress, **[1][2][3]** = 3 to 6, **[1][2][3][4]** = 4 to 10.)
-
-### Finishing Touches
-
-Give your character a name and description, and discuss their history with the other players. If you haven’t written down a relationship aspect yet, do so now.
+Dálle á personaxe un nome e unha descrición, e comparte a súa historia coas outras xogadores. Se ainda non escribiras o aspecto de relación, faino agora.
