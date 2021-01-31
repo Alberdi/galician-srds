@@ -1,6 +1,6 @@
 ---
 Title: "Comezando"
-Placing: 1
+Placing: 2
 ---
 
 # Comezando
