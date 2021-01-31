@@ -118,7 +118,7 @@ Descríbense a continuación estas habilidades:
 * **Vigor**
 * **Vontade**
 
-**Aparellos**: Capacidade para construír ou romper maquinaria, ensamblar aparatos, e ser quen de argallar enxeños coma MacGyver. Os talentos de Aparellos permítenche ter sempre a man o trebello axeitado, dar bonus a construír ou romper cousas, e xustificar o uso de Aparellos en troques doutras habilidades como Roubo ou Coñecementos en determinadas circunstancias.
+**Aparellos**: Capacidade para construír ou romper maquinaria, ensamblar aparatos, e ser quen de argallar enxeños coma MacGyver. Os talentos de Aparellos permítenche ter sempre a man o trebello axeitado, dar bonificadores a construír ou romper cousas, e xustificar o uso de Aparellos en troques doutras habilidades como Roubo ou Coñecementos en determinadas circunstancias.
 
 **Atletismo**: Unha medida do potencial físico. Os talentos de Atletismo céntranse nos movementos (correr, saltar, facer parkour) e en esquivar os ataques.
 
@@ -144,7 +144,7 @@ Descríbense a continuación estas habilidades:
 
 **Recursos**: Acceso a bens materiais, non só cartos ou propiedade directa. Pode representar a túa capacidade para tomares prestado das túas amizades ou para faceres uso da armería dunha organización. Os talentos de Recursos permítenche usar Recursos en troques de Sociabilidade ou Contactos ou danche invocacións de balde extra cando pagas polo mellor servizo.
 
-**Roubo**: Coñecemento dos diferentes sistemas de seguridade e capacidade para burlalos, para furtar e para perpetrar delitos en xeral. Os talentos de Roubo dan bonuses ás diferentes partes de cometer un crime, desde a planificación ata a execución e a fuga.
+**Roubo**: Coñecemento dos diferentes sistemas de seguridade e capacidade para burlalos, para furtar e para perpetrar delitos en xeral. Os talentos de Roubo dan bonificadores ás diferentes partes de cometer un crime, desde a planificación ata a execución e a fuga.
 
 **Saber**: Coñecemento arcano especializado fóra do dominio de Erudición, incluíndo asuntos sobrenaturais de calquera índole. Aquí é onde se engloba todo o que é inquietante. Os talentos de Saber adoitan prover de aplicacions prácticas ao teu coñecemento arcano, como lanzar feitizos. Algunhas ambientacións poden quitar Saber, substituíla por unha habilidade distinta, ou fusionala con Erudición.
 
@@ -180,7 +180,7 @@ Comezas cada sesión con, polo menos, tantos puntos de fado como a túa recarga.
 
 ### Talentos
 
-Aínda que todas as perxonaxes teñen acceso a todas as habilidades, mesmo se son mediocres (+0) na meirande parte delas, a túa personaxe ten uns **talentos** únicos. Os talentos son as técnicas abraiantes, trucos e equipamentos que fan á túa personaxe única e interesante. Mentres que as habilidades nos falan das competencias xerais dunha personaxe, os talentos tratan das áreas específicas de pericia; a maioría deles danche un bonus nunhas circunstancias especiais ou déixanche facer algo que outras personaxes simplemente non poden.
+Aínda que todas as perxonaxes teñen acceso a todas as habilidades, mesmo se son mediocres (+0) na meirande parte delas, a túa personaxe ten uns **talentos** únicos. Os talentos son as técnicas abraiantes, trucos e equipamentos que fan á túa personaxe única e interesante. Mentres que as habilidades nos falan das competencias xerais dunha personaxe, os talentos tratan das áreas específicas de pericia; a maioría deles danche un bonificador nunhas circunstancias especiais ou déixanche facer algo que outras personaxes simplemente non poden.
 
 A túa personaxe comeza con tres espazos para talentos. Non tes que definilos todos xa mesmo, podes ir enchéndoos segundo xogades. Podes adquirir máis talentos gastando 1 de recarga por cada un, até teres un mínimo de 1 de recarga.
 
@@ -189,13 +189,13 @@ A túa personaxe comeza con tres espazos para talentos. Non tes que definilos to
 
 Os talentos escríbelos ti mesmo ao construíres a personaxe. A grandes trazos, hai dous tipos de talentos.
 
-**Talentos que outorgan bonus**: O primeiro tipo de talento **dáche un bonus +2** ao usares unha habilidade concreta dentro de certos parámetros, normalmente limitándote a [un tipo específico de acción](/fate-condensado/accions-e-roladas#accions) e circunstancia narrativa.
+**Talentos que outorgan bonificador**: O primeiro tipo de talento **dáche un bonificador +2** ao usares unha habilidade concreta dentro de certos parámetros, normalmente limitándote a [un tipo específico de acción](/fate-condensado/accions-e-roladas#accions) e circunstancia narrativa.
 
 Formula este tipo de talento deste xeito:
 
 _Posto que **[describe de que forma eres abraiante ou tes un equipamento incrible]**, obteño +2 ao usar **[escolle unha habilidade]** para **[elixe: superar, crear unha vantaxe, atacar, defender]** cando **[describe unha circunstancia]**._
 
-Exemplo de talento que outorga bonus:
+Exemplo de talento que outorga bonificador:
 
 > Posto que son **un francotirador do exército**, obteño +2 ao usar **Tiro** para **atacar** cando **teño un albo <aspect>No punto de mira</aspect>**.
 
@@ -203,7 +203,7 @@ Exemplo de talento que outorga bonus:
 
 * **Trocar que habilidades se usan nunha situación concreta.** Por exemplo, un investigador podería usar Erudición para realizar un ritual mentres que o resto do mundo usaría Saber.
 * **Usar unha acción cunha habilidade que normalmente non se usa con ela.** Por exemplo, permitir que unha personaxe use Discreción para anavallar a un oponente desde as sombras (que típicamente usaría Pelexa).
-* **Darlle a unha personaxe outro tipo de bonus ás habilidades que sexa máis ou menos equivalente a un +2**. Por exemplo, cando un orador experimentado crea unha vantaxe con Sociabilidade, obtén unha invocación de balde extra.
+* **Darlle a unha personaxe outro tipo de bonificador ás habilidades que sexa máis ou menos equivalente a un +2**. Por exemplo, cando un orador experimentado crea unha vantaxe con Sociabilidade, obtén unha invocación de balde extra.
 * **Permitir a unha personaxe declarar que un feito menor sempre é certo.** Por exemplo, un experto en supervivencia sempre ten consigo obxectos de supervivencia (como mistos), mesmo en situacións improbábeis.
 * **Permitir a unha personaxe facer unha excepción concreta ás regras.** Por exemplo, unha personaxe pode ter dúas caixas máis de estrés ou outro espazo de consecuencia leve.
 

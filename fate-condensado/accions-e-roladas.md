@@ -1,136 +1,140 @@
-# Taking Action, Rolling the Dice
+---
+Title: "Accións e roladas"
+Placing: 2
+---
 
-In a game of _Fate Condensed_, you will control the actions of the character you created, contributing to the story you are all telling together. In general, the GM will narrate the world and the actions of non-player characters (**NPCs**), and the other players will narrate their individual PCs’ actions.
 
-To act, follow the principle of **fiction first**: say what your character is trying to do, _then_ figure out how you’ll do that in the system. Your character’s aspects inform what they can attempt and help set the context for interpreting the results. Most people couldn’t even try to perform emergency surgery on a disemboweled ally, but with an aspect establishing a medical background, you can try. Without that aspect you might at best buy a few moments for some last words. When in doubt, check with your GM and the table.
+# Accións e roladas
 
-How do you know if you’re successful? Often, your character will simply succeed, because the action isn’t hard and nobody’s trying to stop you. But in difficult or unpredictable situations, you’ll break out the dice to find out what happens.
+Nunha partida de _Fate Condensado_ controlarás as accións da personaxe que creaches e contribuirás á historia que estades a crear entre todas. En xeral, a DX describirá o mundo e narrará as accións das personaxes non xogadoras (**PNXs**), mentres que o resto de participantes narrarán as accións de cadansúas PXs.
 
-When a character wants to take an action, the group should think about these questions:
+Para actuares, ten presente o principio de **a ficción por diante**: di o que está a tentar facer a túa personaxe _e despois_ mirade como levalo a cabo no sistema. Os aspectos da túa personaxe determinan o que pode tentar e fixan o contexto no que interpretar os resultados. A meirande parte da xente non podería nin plantexarse unha cirurxía de emerxencia nun aliado destripado, pero se tes un aspecto que establece o teu trasfondo médico, poderías tentarlo. Sen ese aspecto o máis que darías feito é gañar uns minutos para que dixese as súas derradeiras palabras. En caso de dúbida, consulta á DX e ao resto da mesa.
 
-*   What’s stopping this from happening?
-*   What could go wrong?
-*   How is it interesting when it does go wrong?
+E como saberás se tiveches éxito? A miúdo, a túa personaxe dará feito o que se propuña sen máis voltas, porque a acción non era complicada e ninguén che facía fronte. Pero, en situacións difíciles ou impredecíbeis, teredes que sacar os dados para averiguar o que acontece.
 
-If no one has good answers to all of these questions, it simply happens. Driving to the airport doesn’t require a roll of the dice. Racing down the highway to a waiting plane while being pursued by cybernetically enhanced beasts from another world, on the other hand, is a perfect time to roll the dice.
+Cando unha personaxe quera levar a cabo unha acción, o grupo deberá pensar nestas cuestións:
 
-Whenever you take action, follow these steps:
+* Que impide que isto aconteza?
+* Que podería saír mal?
+* Que habería de interesante en que saíse mal?
 
-1.  Fiction first: Describe what you’re trying to do, _then_ choose the skill and action that fits.
-2.  Roll four dice.
-3.  Add up the symbols on the dice: a <dice>[+]</dice> is +1, <dice>[-]</dice> is -1, and <dice>[0]</dice> is 0\. This will give you a dice result of -4 to 4.
-4.  Add the dice result to your skill rating.
-5.  Modify the dice by invoking aspects (**page XX**) and using stunts (**page XX**).
-6.  Declare your total result, called your **effort**.
+Se ninguén da respostas convincentes a todas estas preguntas, acontece sen máis voltas. Conducir ata o aeroporto non require unha rolada. Pola outra banda, unha carreira pola autoestrada cara un avión co motor aceso mentres vos persiguen unhas bestas ciborg doutro planeta é o momento perfecto para rolar dados.
 
-## Difficulty and Opposition
+Sempre que realices unha acción, segue estes pasos:
 
-If the character’s action faces a fixed obstacle or otherwise tries to alter the world rather than a character or creature, their action faces a static **difficulty** rating. These actions include picking locks, barring doors, and tactically assessing an enemy camp. The GM may decide that the presence of certain aspects (on the character, the scene, or something else) justifies changing the difficulty.
+1. A ficción por diante: describe o que tentas facer, _e despois_ escolle a habilidade e acción que encaixen.
+2. Rola catro dados.
+3. Suma os símbolos nos dados: un <fate>+</fate> é +1, <fate>-</fate>é -1, e <fate>0</fate> é 0. Isto producirá un resultado dos dados entre -4 e 4.
+4. Súmalle o resultado dos dados á túa habilidade.
+5. Modifica este número [invocando aspectos](/fate-condensado/aspectos-e-puntos-de-fado#invocacions) e usando [talentos](/fate-condensado/comezando#talentos).
+6. Declara o teu resultado final, o que se chama o **esforzo**.
 
-At other times, an enemy will provide **opposition** against the character’s action by using a defend action (**page XX**). In these cases, the GM will also roll the dice and follow the same rules as in the previous section, using any skills, stunts, or aspects the enemy has. Any time you roll to attack an enemy or to create an advantage directly against them, the enemy will roll to defend against it.
+## Dificultade e oposición
 
-Opposition can take many forms. Struggling with a cultist over the ritual dagger has a clear opponent. Or you might be opposed by the power of an ancient ritual that must be overcome to save the world. Cracking the safe in the First Metropolitan Bank to access the safe deposit boxes is a challenge with risk of discovery, but it’s up to the GM if you’re rolling against _opposition_ from the patrolling guards or the _difficulty_ presented by the safe itself.
+Se a acción da personaxe se enfronte a un obstáculo fixo ou tenta alterar o mundo e non outra personaxe ou criatura, a súa acción se enfronta a un nivel de **dificultade** estático. Estas accións inclúen abrir cadeados, bloquear portas, e analizar tácticamente o campamento inimigo. A DX pode decidir que a presenza de certos aspectos (na personaxe, na escena ou de outro tipo) xustifique axustar a dificultade.
 
-## Modifying the Dice
+Noutras ocasións, un inimigo ofrecerá **oposición** á acción da personaxe mediante a acción [Defender](#defensa). Nestes casos, a DX tamén rolará os dados e seguirá as mesmas regras que na sección anterior, facendo uso de calquera habilidade, talento ou aspecto que teña o inimigo. Sempre que roles para atacar un inimigo ou crear unha vantaxe directamente contra el, o inimigo rolará para defenderse.
 
-On your turn, you may modify your dice by invoking aspects to get +2 to your roll or reroll the dice. Some stunts also give you a bonus. You may also invoke aspects to support an ally (**page XX**) or to increase the difficulty an enemy faces.
+A oposición pode vir de moitas formas. Forcexar cun cultista pola daga do ritual ten un opoñente claro. Ou pode que se che opoña o poder dun antigo ritual que debes superar para salvar o mundo. Abrir as cámaras do Gran Banco Metropolitano para acceder a unha das caixas fortes é todo un reto con risco de serdes descubertas, pero depende da DX se rolades contra a _oposición_ dos gardas de seguridade ou contra a _dificultade_ da propia porta blindada.
 
-### Invoking Aspects
+## Modificar os dados
 
-<a id="_idTextAnchor003"></a>When you take action but the dice come up short, you don’t have to sit back and accept failure. (Though you totally can. That’s fun too.) The aspects in play give you options and opportunity to succeed.
+No teu turno, podes invocar aspectos para modificar os dados e así engadir +2 á rolada ou volver a rolar. Algúns talentos tamén che dan bonificadores. Os aspectos tamén se poden invocar para [axudar a unha aliada](/fate-condensado/desafios-conflitos-e-competicions#traballo-en-equipo) ou para incrementar a dificultade á que se enfronta un inimigo.
 
-When an aspect could justifiably help your efforts, describe how it helps and spend a fate point to <a id="_idTextAnchor004"></a>**invoke** it (or use a free invoke). What is and isn’t justifiable is subject to the **<a id="_idTextAnchor005"></a>bogus rule**—anyone can say “that’s bogus!” to invoking an aspect. Simply put, the bogus rule is a **calibration tool** that anyone at the table may use to help the group make sure the game stays true to its vision and concept. You can use the safety tools discussed on **page XX** in a similar fashion.
+### Invocar aspectos
 
-You have two options when your invoke looks bogus. First, you can retract your invoke and try something else, maybe a different aspect. Second, you can have a quick discussion about why you think the aspect fits. If the person still isn’t convinced, retract the invoke and move on. If they come around to your perspective, go ahead with the invoke as usual. The bogus rule is in here to help everyone at the table have a good time. Use it when something doesn’t sound right, make sense, or fit the tone. Someone invoking **Great at First Impressions** to throw a car is likely bogus. But maybe that character has a supernatural stunt that makes them incredibly strong, strong enough to plausibly throw a car, and this is their opening gambit in a fight with a horrible monster. In that case, maybe **Great at First Impressions** is plausible.
+Cando realices unha acción pero os dados non te acompañen, non tes por que resignarte a aceptar o fracaso (malia que podes se queres, iso tamén é divertido!). Os aspectos en xogo fornécenche de opcións e oportunidade para teres éxito.
 
-When you invoke an aspect, you can either **gain a +2 bonus** to your roll or **reroll all four dice**, or you can add 2 to the difficulty of someone else’s roll, if justifiable. You can invoke multiple aspects on the same roll, but you can’t invoke the same aspect multiple times on the same roll. There is one exception: you can spend as many _free invokes_ on an aspect as you like on the same roll.
+Cando un aspecto puider axudarte nas túas tentativas, describe como é de axuda e gasta un punto de fado para **invocárelo** (ou gasta unha invocación de balde). Decidir a que é aplicable e a que non é aplicable ríxese pola **regra da trapallada**: calquera na mesa pode retrucar con «vaia trapallada!» a unha invocación de aspecto. Falando claro, a regra da trapallada é unha ferramenta de calibración que calquera na mesa pode empregar para axudar o grupo a manteren o xogo na súa visión e concepto acordados. As [ferramentas de seguridade](/fate-condensado/dirixir-o-xogo#ferramentas-de-seguridade) tamén se poden usar dun xeito semellante.
 
-Most often you’ll invoke one of your character aspects, but sometimes you’ll invoke a situation aspect or even make a hostile invocation of another character’s aspect (**page XX**).
+Tes dúas opcións se a túa invocación parece unha trapallada. A primeira, retirares a túa invocación e tentar outra cousa, talvez mediante un aspecto diferente. A segunda, terdes un debate rápido sobre por que pensas que o aspecto é acaído. Se a outra persoa segue sen estar convencida, retira a invocación e pasa páxina. Se a convences, continúa coa invocación como de normal. A regra da trapallada existe para axudar a que todo o mundo na mesa goce e o pase ben. Úsaa cando algo non che soe ben, non che teña sentido, ou non encaixe co ton. Alguén que invoque <aspect>Causo boas primeiras impresións</aspect> para guindar un coche non pasará a proba da trapallada. Pero talvez esa personaxe teña un talento sobrenatural que a faga incriblemente forte, tan forte como para guindar un coche, e esta sexa a súa manobra inicial nunha loita contra un monstro terrorífico. Nese caso, se cadra <aspect>Causo boas primeiras impresións</aspect> ten sentido. 
 
-Often you’ll invoke one of your character aspects. You may also invoke a situation aspect or make a hostile invocation of another character’s aspect (**page XX**).
+Cando invoques un aspecto, podes **gañar un bonificador +2** na túa rolada ou **volver a rolar os catro dados**, ou engadir +2 á dificultade dunha rolada allea, se aplica. Podes invocar máis dun aspecto na mesma rolada, pero non podes invocar o mesmo aspecto máis dunha vez na mesma rolada. Hai unha excepción: podes gastar tantas _invocacións de balde_ dun aspecto como queiras na mesma rolada.
 
-### Using Stunts
+O máis habitual é que invoques un dos teus aspectos de personaxe. Tamén podes invocar un aspecto de situación ou facer unha [invocación hostil](/fate-condensado/aspectos-e-puntos-de-fado#invocacions-hostis) dun aspecto doutra personaxe.
 
-<a id="_idTextAnchor006"></a>Stunts may give you a bonus to your roll, provided you meet the criteria written in the stunt, such as the circumstances, action, or skill used. You may wish to use create advantage (**page XX**) to introduce aspects that line up with those circumstances. Keep your stunts’ circumstances in mind when you describe your actions too, and set yourself up for success.
+### Usar talentos
 
-Normally, stunts give you a +2 bonus in a narrow circumstance with no cost; you may use them anytime they apply. Some rare and exceptionally powerful stunts may require you to spend a fate point to use them.
+Os talentos poden darche un bonificador á rolada, sempre que cumprires os criterios fixados no talento tales como as circunstancias, a acción ou a habilidade usada. Talvez che interese usares [Crear unha Vantaxe](#crear-unha-vantaxe) para introducir aspectos que te aliñen con esas circunstancias. Tenas presentes tamén cando describas as túas accións e irás encamiñado cara o éxito.
 
-## Outcomes
+Normalmente os talentos danche un bonificador +2 nunha circunstancia concreta sen ningún custe: podes usalos sempre que se dea o contexto. Algúns talentos máis raros e excepcionalmente poderosos poden esixirche o pago dun punto de fado para usalos.
 
-Whenever you roll dice, the difference between your effort and the target difficulty or opposition is measured in **shifts**. A shift has a value of 1\. There are four possible outcomes:
+## Resolucións
 
-*   If your effort is less than the target difficulty or opposition, you **fail**.
-*   If your effort is equal to the target, you **tie**.
-*   If your effort is one or two shifts more than the target, you **succeed**.
-*   If your effort is three or more shifts more than the target, you **succeed with style**.
+Sempre que roles, a diferencia entre o teu esforzo e a dificultade ou oposición albo se mide en **chanzos**. Un chanzo ten un valor de 1. Hai catro posibles resolucións.
 
-Some outcomes are obviously better for you than others, but all of them should advance the story in interesting ways. You started with fiction first (**page XX**); make sure you end with it too, to maintain focus on the story, and to ensure you interpret the results in a way that fits the fiction.
+* Se o teu esforzo for menor que a dificultade ou oposición albo, **fracasas**
+* Se o teu esforzo for igual ao albo, **empatas**
+* Se o teu esforzo for un ou dous chanzos maior que o albo, **tes éxito**.
+* Se o teu esforzo for tres ou máis chanzos maior que o albo, **tes éxito con estilo**.
 
-Ethan isn’t an adept safe-cracker (though he has the tools), and yet he’s in a sinister cult’s guarded secret headquarters, with a steel door between him and the ritual book he desperately needs. Can he get in?
+Algunhas resolucións son obviamente mellores para ti que as outras, pero todas elas deberían avanzar a historia dunha forma interesante. Comezaches coa ficción por diante; remata tamén con ela para manterdes o foco na historia e asegurarte que interpretas os resultados dunha forma que lle acaia á ficción.
 
-### Failure
+> Eloi non é un experto en abrir caixas fortes (ainda que ten as ferramentas axeitadas), pero está no cuartel xeral dunha secta sinistra e o único que se interpón entre el e o libro de rituais que precisa desesperadamente é unha porta de aceiro. Poderá sorteala? 
 
-If your effort is less than the target difficulty or opposition, you fail.
+### Fracaso
 
-This can play out in a few ways: simple failure, success at a major cost, or taking a hit.
+Se o teu esforzo é menor do que a dificultade ou oposición albo, fracasas.
 
-#### Simple Failure
+Ese fracaso pode interpretarse de varias formas: fracaso simple, éxito a custo alto, ou recibires un impacto.
 
-The first is the easiest to understand—**simple failure**. You don’t accomplish your goal, don’t make any progress, and are left wanting. Ensure this keeps the story moving—simply failing to crack the safe is stagnant and boring.
+#### Fracaso simple
 
-Ethan pulls the handle triumphantly, but the safe remains resolutely closed while the alarms begin to blare. Failure has changed the situation and driven the story forward—now there are guards on the way. Ethan is faced with a new choice—try another way of opening the safe, now that subtlety is out the window, or cut his losses and run?
+A primeira é a máis sinxela de entender: **fracaso simple**. Non logras a túa meta, non fas progresos, e quedas coas ganas. Asegurádevos de que se manteña o avance da historia: non dar aberto a porta, sen máis, é aborrecido e estancado.
 
-#### Success at a major cost
+> Eloi baixa o picaporte satisfeito, pero a caixa permanece ben pechada mentres as alarmas comezan a ruxir. O fracaso mudou a situación e moveu a historia cara diante: agora os gardas están de camiño. Eloi enfróntase a un novo dilema: tentar abrir a caixa doutra forma, agora que a discreción xa se foi ao tacho, ou evitar empeoralo e saír correndo?
 
-Second is <a id="_idTextAnchor007"></a>**success at a major cost**. You do what you set out to do, but there’s a significant price to be paid—the situation gets worse or more complicated. GM, you can either declare this is the result or can offer it in place of failure. Both options are good and useful in different situations.
+#### Éxito a custo alto
 
-Ethan fails his roll and the GM says, “You hear the click of the last tumbler falling into place. It’s echoed by the click of the hammer on a revolver as the guard tells you to put your hands in the air.” The major cost here is the confrontation with a guard he’d hoped to avoid.
+En segundo lugar está o **éxito a custo alto**. Das feito o que querías facer, pero hai un prezo importante a pagares: a situación empeora ou complícase. A Dirección de Xogo pode declarar que esta é a resolución ou ofrecela en lugar do fracaso simple. Ambas opcións son boas e útiles en diferentes situacións.
 
-#### Take a Hit
+> Eloi fracasa na súa rolada e a DX di: «Escoitas o estalo do derradeiro pistón ao encaixar no seu sitio. Respóndelle o estalo do seguro dun revólver cando o garda che pide que levantes as mans.» O alto custo aquí é a confrontación co garda que Eloi esperaba poder evitar.
 
-Lastly, you may **take a hit**, which you’ll need to absorb with stress or consequences, or suffer some other drawback. This sort of failure is most common when defending against attacks or overcoming dangerous obstacles. This is different from a simple failure because the character alone, not necessarily the whole group, is affected. It’s also different from success at a major cost, in that success isn’t necessarily on the table.
+#### Recibir un impacto
 
-Ethan is able to get the safe door open, but as he grasps the handle, he feels a jab in the back of his hand. He couldn’t disable the trap! He writes down the mild consequence **Poisoned**.
+Finalmente, podes **recibir un impacto**, que terás que absorber con estrés ou consecuencias ou sufrir algún outro revés. Este tipo de fracaso é máis frecuente cando te defendes de ataques ou ao superares obstáculos perigosos. É diferente dun fracaso simple porque afecta só á personaxe, e non ao grupo enteiro. Tamén é diferente do éxito a custo alto, xa que o éxito non é necesariamente unha posibilidade.
 
-You can mix these options together: Harmful failure can be harsh but appropriate in the moment. Success at the cost of harm is certainly an option.
+> Eloi é quen de abrir a porta da caixa forte, pero cando agarra o picaporte, nota unha picada no dorso da man. Non logrou desactivar a trampa! Anota a consecuencia leve **Envelenado**.
 
-### Tie
+Estas opcións se poden mesturar: un fracaso simple con dano pode ser duro pero necesario segundo a ocasión. Éxito a custo de dano tamén é unha opción, certamente.
 
-If your effort is equal to the target difficulty or opposition, you tie.
+### Empate
 
-Just like failure, ties should move the story forward, never stymie the action. Something interesting should happen. Similar to failure, this can play out a couple ways: success at a minor cost, or partial success.
+Se o teu esforzo é igual á dificultade ou oposición albo, empatas.
 
-#### Success at a minor cost
+O mesmo que nun fracaso, os empates deberán avanzar a historia, sen obstaculizar nunca a narrativa. Ten que acontecer algo interesante. Igual que no fracaso, pódense interpretar dun par de formas: éxito a custo baixo, ou éxito parcial.
 
-The first is <a id="_idTextAnchor008"></a>**success at a minor cost**—a few points of stress, story details about difficulty or complication but aren’t hindrances themselves, and a boost (**page XX**) to the enemy are all minor costs.
+#### Éxito a custo baixo
 
-Ethan’s first few attempts all fail. By the time he actually gets the door open, dawn has broken, and escape under cover of darkness is impossible. He got what he needed, but his situation is worse now.
+A primeira é o **éxito a custo baixo**: exemplos de custos baixos son un par de puntos de estrés, novas dificultades ou complicacións da historia que non sexan atrancos en si mesmos, ou dar un impulso ao inimigo.
 
-#### Partial Success
+> Todas as primeiras tentativas de Eloi fallan. Para cando dá aberto a porta, está a saír o sol, e escapar baixo o manto da noite xa non será posible. Obtivo o que quería, pero agora está en peor situación.
 
-The other way to handle a tie is **partial success**—you succeeded but only got some of what you wanted.
+#### Éxito parcial
 
-Ethan can only open the safe door a crack—if the door opens more than an inch, the alarm will sound, and he can’t figure out how to disengage that. He manages to pull a couple pages of the ritual out through the narrow gap, but he’ll have to guess at the final steps.
+O outro xeito de resolver un empate é cun **éxito parcial**: tes éxito pero só obtés unha parte do que querías.
 
-### Success
+> Eloi apenas logra abrir un anaco a porta da caixa forte; se a separase máis duns centímetros, saltarían as alarmas, e non sabe como desactivalas. A través da fenda é quen de sacar un par de páxinas do ritual, pero terá que adiviñar os pasos finais.
 
-If your effort is one or two more than the target, you succeed.
+### Éxito
 
-You get what you want with no additional cost.
+Se o teu esforzo é un ou dous chanzos maior que o albo, tes éxito.
 
-Opened! Ethan grabs the ritual and leaves before the guards notice him.
+Obtés o que querías sen ningún custo adicional.
 
-#### Applying “Fiction First” to Success
+> Aberta! Eloi colle o ritual e marcha antes de que os gardas reparen nel.
 
-The fiction _defines_ what success looks like. What if Ethan didn’t have the tools or experience needed to break into the safe? Perhaps that success is more like our “minor cost” example above. Similarly, if Ethan was on the team because he _built_ the safe, that success might look more like our “with style” example.
+#### Aplicar «a ficción por diante» aos éxitos
 
-### Success with Style
+A ficción _determina_ o que supón o éxito. Que pasaría se Eloi non tivese as ferramentas ou a experiencia necesarias para abrir a caixa? Talvez o éxito se parecese máis ao noso examplo do «custo baixo». Da mesma forma, se Eloi estivese no equipo porque _fora el quen fabricou a caixa_, ese éxito se podería parecer máis ao noso exemplo «con estilo».
 
-If your effort is three or more than the target, you succeed with style.
+### Éxito con estilo
 
-You get what you want, and you get a bit more on top of that.
+Se o teu esforzo é tres ou máis chanzos maior que o albo, tes éxito con estilo.
 
-Ethan is beyond lucky; the safe door opens almost instantly. Not only does he get the ritual, but he has enough time to poke through the other papers in the back of the safe. Amidst various ledgers and financial documents, he finds a map of the old Akeley mansion.
+Obtés o que queres, e por riba un pouco máis.
+
+> Eloi tivo unha sorte tremenda: a caixa ábrese case ao instante. Non só colle o ritual, senón que ten tempo tamén de fisgar nos outros papeis ao fondo da caixa. Entre arquivadores e documentos financieiros, atopa un mapa da vella mansión Akeley.
 
 ## Actions
 

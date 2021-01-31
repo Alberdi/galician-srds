@@ -1,6 +1,6 @@
 ---
 Title: "Fate Condensado"
-Placing: 1
+Placing: 0
 ---
 
 # Fate Condensado
