@@ -8,44 +8,44 @@ Placing: 3
 
 Nunha partida de _Fate Condensado_ controlarás as accións da personaxe que creaches e contribuirás á historia que estades a crear entre todas. En xeral, a DX describirá o mundo e narrará as accións das personaxes non xogadoras (**PNXs**), mentres que o resto de participantes narrarán as accións de cadansúas PXs.
 
-Para actuares, ten presente o principio de **a ficción por diante**: di o que está a tentar facer a túa personaxe _e despois_ mirade como levalo a cabo no sistema. Os aspectos da túa personaxe determinan o que pode tentar e fixan o contexto no que interpretar os resultados. A meirande parte da xente non podería nin plantexarse unha cirurxía de emerxencia nun aliado destripado, pero se tes un aspecto que establece o teu trasfondo médico, poderías tentarlo. Sen ese aspecto o máis que darías feito é gañar uns minutos para que dixese as súas derradeiras palabras. En caso de dúbida, consulta á DX e ao resto da mesa.
+Para actuares, ten presente o principio da **ficción por diante**: di o que está a tentar facer a túa personaxe _e despois_ mirade como levalo a cabo no sistema. Os aspectos da túa personaxe determinan o que pode tentar e fixan o contexto no que interpretardes os resultados. A meirande parte da xente non podería nin plantexarse unha cirurxía de emerxencia nun aliado destripado, pero se tes un aspecto que establece a túa formación médica, poderías tentarlo. Sen ese aspecto, o máis que darías feito é gañar uns minutos para que dixese as súas derradeiras palabras. En caso de dúbida, consulta a DX e o resto da mesa.
 
-E como saberás se tiveches éxito? A miúdo, a túa personaxe dará feito o que se propuña sen máis voltas, porque a acción non era complicada e ninguén che facía fronte. Pero, en situacións difíciles ou impredecíbeis, teredes que sacar os dados para averiguar o que acontece.
+E como saberás se tiveches éxito? A miúdo, a túa personaxe dará feito o que se propoñía sen máis voltas, porque a acción non era complicada e ninguén che facía fronte. Pero, en situacións difíciles ou impredecíbeis, teredes que sacar os dados para averiguar o que acontece.
 
-Cando unha personaxe quera levar a cabo unha acción, o grupo deberá pensar nestas cuestións:
+Cando unha personaxe queira levar a cabo unha acción, o grupo deberá pensar nestas cuestións:
 
 * Que impide que isto aconteza?
 * Que podería saír mal?
 * Que habería de interesante en que saíse mal?
 
-Se ninguén da respostas convincentes a todas estas preguntas, acontece sen máis voltas. Conducir ata o aeroporto non require unha rolada. Pola outra banda, unha carreira pola autoestrada cara un avión co motor aceso mentres vos persiguen unhas bestas ciborg doutro planeta é o momento perfecto para rolar dados.
+Se ninguén dá respostas convincentes a todas estas preguntas, acontece sen máis voltas. Conducir ata o aeroporto non require unha rolada. Pola outra banda, unha carreira pola autoestrada cara un avión co motor aceso mentres vos persiguen unhas bestas ciborgue doutro planeta é o momento perfecto para rolar dados.
 
 Sempre que realices unha acción, segue estes pasos:
 
 1. A ficción por diante: describe o que tentas facer, _e despois_ escolle a habilidade e acción que encaixen.
 2. Rola catro dados.
-3. Suma os símbolos nos dados: un <fate>+</fate> é +1, <fate>-</fate>é -1, e <fate>0</fate> é 0. Isto producirá un resultado dos dados entre -4 e 4.
+3. Suma os símbolos nos dados: un <fate>+</fate> é +1, <fate>-</fate> é -1, e <fate>0</fate> é 0. Isto producirá un resultado dos dados entre -4 e 4.
 4. Súmalle o resultado dos dados á túa habilidade.
 5. Modifica este número [invocando aspectos](/fate-condensado/aspectos-e-puntos-de-fado#invocacions) e usando [talentos](/fate-condensado/comezando#talentos).
 6. Declara o teu resultado final, o que se chama o **esforzo**.
 
 ## Dificultade e oposición
 
-Se a acción da personaxe se enfronte a un obstáculo fixo ou tenta alterar o mundo e non outra personaxe ou criatura, a súa acción se enfronta a un nivel de **dificultade** estático. Estas accións inclúen abrir cadeados, bloquear portas, e analizar tácticamente o campamento inimigo. A DX pode decidir que a presenza de certos aspectos (na personaxe, na escena ou de outro tipo) xustifique axustar a dificultade.
+Se a acción da personaxe se enfronta a un obstáculo fixo ou tenta alterar o mundo e non outra personaxe ou criatura, a súa acción se enfronta a un nivel de **dificultade** estático. Estas accións inclúen abrir cadeados, bloquear portas, e analizar tácticamente o campamento inimigo. A DX pode decidir que a presenza de certos aspectos (na personaxe, na escena, ou de outro tipo) xustifique axustar a dificultade.
 
 Noutras ocasións, un inimigo ofrecerá **oposición** á acción da personaxe mediante a acción [Defender](#defensa). Nestes casos, a DX tamén rolará os dados e seguirá as mesmas regras que na sección anterior, facendo uso de calquera habilidade, talento ou aspecto que teña o inimigo. Sempre que roles para atacar un inimigo ou crear unha vantaxe directamente contra el, o inimigo rolará para defenderse.
 
 A oposición pode vir de moitas formas. Forcexar cun cultista pola daga do ritual ten un opoñente claro. Ou pode que se che opoña o poder dun antigo ritual que debes superar para salvar o mundo. Abrir as cámaras do Gran Banco Metropolitano para acceder a unha das caixas fortes é todo un reto con risco de serdes descubertas, pero depende da DX se rolades contra a _oposición_ dos gardas de seguridade ou contra a _dificultade_ da propia porta blindada.
 
-## Modificar os dados
+## Modificar a rolada
 
-No teu turno, podes invocar aspectos para modificar os dados e así engadir +2 á rolada ou volver a rolar. Algúns talentos tamén che dan bonificadores. Os aspectos tamén se poden invocar para [axudar a unha aliada](/fate-condensado/desafios-conflitos-e-competicions#traballo-en-equipo) ou para incrementar a dificultade á que se enfronta un inimigo.
+No teu turno, podes invocar aspectos para modificar a rolada e así engadirlle +2 ou rolar outra vez. Algúns talentos tamén che dan bonificadores. Os aspectos tamén se poden invocar para [axudar unha aliada](/fate-condensado/desafios-conflitos-e-competicions#traballo-en-equipo) ou para incrementar a dificultade á que se enfronta un inimigo.
 
 ### Invocar aspectos
 
-Cando realices unha acción pero os dados non te acompañen, non tes por que resignarte a aceptar o fracaso (malia que podes se queres, iso tamén é divertido!). Os aspectos en xogo fornécenche de opcións e oportunidade para teres éxito.
+Cando realices unha acción pero os dados non te acompañen, non tes por que resignarte a aceptar o fracaso (malia que podes se quixeres, iso tamén é divertido!). Os aspectos en xogo fornécenche de opcións e oportunidades para teres éxito.
 
-Cando un aspecto puider axudarte nas túas tentativas, describe como é de axuda e gasta un punto de fado para **invocárelo** (ou gasta unha invocación de balde). Decidir a que é aplicable e a que non é aplicable ríxese pola **regra da trapallada**: calquera na mesa pode retrucar con «vaia trapallada!» a unha invocación de aspecto. Falando claro, a regra da trapallada é unha ferramenta de calibración que calquera na mesa pode empregar para axudar o grupo a manteren o xogo na súa visión e concepto acordados. As [ferramentas de seguridade](/fate-condensado/dirixir-o-xogo#ferramentas-de-seguridade) tamén se poden usar dun xeito semellante.
+Cando un aspecto puider axudarte lexítimamente nas túas tentativas, describe como é de axuda e gasta un punto de fado (ou unha invocación de balde) para **invocárelo**. Decidir o que é lexítimo e o que non ríxese pola **regra da trapallada**: calquera na mesa pode retrucar «vaia trapallada!» a unha invocación de aspecto. Falando claro, a regra da trapallada é unha ferramenta de calibración que calquera na mesa pode empregar para axudar o grupo a manter o xogo na súa visión e concepto acordados. As [ferramentas de seguridade](/fate-condensado/dirixir-o-xogo#ferramentas-de-seguridade) tamén se poden usar dun xeito semellante.
 
 Tes dúas opcións se a túa invocación parece unha trapallada. A primeira, retirares a túa invocación e tentar outra cousa, talvez mediante un aspecto diferente. A segunda, terdes un debate rápido sobre por que pensas que o aspecto é acaído. Se a outra persoa segue sen estar convencida, retira a invocación e pasa páxina. Se a convences, continúa coa invocación como de normal. A regra da trapallada existe para axudar a que todo o mundo na mesa goce e o pase ben. Úsaa cando algo non che soe ben, non che teña sentido, ou non encaixe co ton. Alguén que invoque <aspect>Causo boas primeiras impresións</aspect> para guindar un coche non pasará a proba da trapallada. Pero talvez esa personaxe teña un talento sobrenatural que a faga incriblemente forte, tan forte como para guindar un coche, e esta sexa a súa manobra inicial nunha loita contra un monstro terrorífico. Nese caso, se cadra <aspect>Causo boas primeiras impresións</aspect> ten sentido. 
 
@@ -55,9 +55,9 @@ O máis habitual é que invoques un dos teus aspectos de personaxe. Tamén podes
 
 ### Usar talentos
 
-Os talentos poden darche un bonificador á rolada, sempre que cumprires os criterios fixados no talento tales como as circunstancias, a acción ou a habilidade usada. Talvez che interese usares [Crear unha Vantaxe](#crear-unha-vantaxe) para introducir aspectos que te aliñen con esas circunstancias. Tenas presentes tamén cando describas as túas accións e irás encamiñado cara o éxito.
+Os talentos pódenche dar un bonificador á rolada sempre que cumpras os criterios fixados no talento, tales como as circunstancias, a acción ou a habilidade usada. Talvez che interese usares [Crear unha Vantaxe](#crear-unha-vantaxe) para introducir aspectos que te aliñen con esas circunstancias. Tenas presentes tamén cando describas as túas accións e irás encamiñado cara o éxito.
 
-Normalmente os talentos danche un bonificador +2 nunha circunstancia concreta sen ningún custe: podes usalos sempre que se dea o contexto. Algúns talentos máis raros e excepcionalmente poderosos poden esixirche o pago dun punto de fado para usalos.
+Normalmente os talentos danche un bonificador +2 nunha circunstancia concreta sen ningún custe: podes usalos sempre que se dea o contexto. Algúns talentos máis raros e excepcionalmente poderosos poden esixirche o pago dun punto de fado para os usar.
 
 ## Resolucións
 
@@ -80,7 +80,7 @@ Ese fracaso pode interpretarse de varias formas: fracaso simple, éxito a custo 
 
 #### Fracaso simple
 
-A primeira é a máis sinxela de entender: **fracaso simple**. Non logras a túa meta, non fas progresos, e quedas coas ganas. Asegurádevos de que se manteña o avance da historia: non dar aberto a porta, sen máis, é aborrecido e estancado.
+A primeira é a máis sinxela de entender: **fracaso simple**. Non logras a túa meta, non fas progresos, e quedas coas ganas. Asegurádevos de que a historia siga progresando: non dar aberto a porta, sen máis, é aborrecido e estancado.
 
 > Eloi baixa o picaporte satisfeito, pero a caixa permanece ben pechada mentres as alarmas comezan a ruxir. O fracaso mudou a situación e moveu a historia cara diante: agora os gardas están de camiño. Eloi enfróntase a un novo dilema: tentar abrir a caixa doutra forma, agora que a discreción xa se foi ao tacho, ou evitar empeoralo e saír correndo?
 
@@ -94,15 +94,15 @@ En segundo lugar está o **éxito a custo alto**. Das feito o que querías facer
 
 Finalmente, podes **recibir un impacto**, que terás que absorber con estrés ou consecuencias ou sufrir algún outro revés. Este tipo de fracaso é máis frecuente cando te defendes de ataques ou ao superares obstáculos perigosos. É diferente dun fracaso simple porque afecta só á personaxe, e non ao grupo enteiro. Tamén é diferente do éxito a custo alto, xa que o éxito non é necesariamente unha posibilidade.
 
-> Eloi é quen de abrir a porta da caixa forte, pero cando agarra o picaporte, nota unha picada no dorso da man. Non logrou desactivar a trampa! Anota a consecuencia leve **Envelenado**.
+> Eloi é quen de abrir a porta da caixa forte, pero cando agarra o picaporte, nota unha picada no dorso da man. Non logrou desactivar a trampa! Anota a consecuencia leve <aspect>Envelenado</aspect>.
 
-Estas opcións se poden mesturar: un fracaso simple con dano pode ser duro pero necesario segundo a ocasión. Éxito a custo de dano tamén é unha opción, certamente.
+Estas opcións pódense mesturar: un fracaso simple con dano pode ser duro pero necesario segundo a ocasión. Éxito a custo de dano tamén é unha opción, certamente.
 
 ### Empate
 
 Se o teu esforzo é igual á dificultade ou oposición albo, empatas.
 
-O mesmo que nun fracaso, os empates deberán avanzar a historia, sen obstaculizar nunca a narrativa. Ten que acontecer algo interesante. Igual que no fracaso, pódense interpretar dun par de formas: éxito a custo baixo, ou éxito parcial.
+O mesmo que nun fracaso, os empates deberán progresar a historia, sen obstaculizar nunca a narrativa. Ten que acontecer algo interesante. Igual que no fracaso, pódense interpretar dun par de formas: éxito a custo baixo, ou éxito parcial.
 
 #### Éxito a custo baixo
 
@@ -114,7 +114,7 @@ A primeira é o **éxito a custo baixo**: exemplos de custos baixos son un par d
 
 O outro xeito de resolver un empate é cun **éxito parcial**: tes éxito pero só obtés unha parte do que querías.
 
-> Eloi apenas logra abrir un anaco a porta da caixa forte; se a separase máis duns centímetros, saltarían as alarmas, e non sabe como desactivalas. A través da fenda é quen de sacar un par de páxinas do ritual, pero terá que adiviñar os pasos finais.
+> Eloi apenas logra abrir un anaco a porta da caixa forte; se a separase máis duns centímetros, saltarían as alarmas, e non sabe como desactivalas. A través da fenda é quen de sacar un par de páxinas do ritual, pero terá que improvisar os pasos finais.
 
 ### Éxito
 
@@ -134,7 +134,7 @@ Se o teu esforzo é tres ou máis chanzos maior que o albo, tes éxito con estil
 
 Obtés o que queres, e por riba un pouco máis.
 
-> Eloi tivo unha sorte tremenda: a caixa ábrese case ao instante. Non só colle o ritual, senón que ten tempo tamén de fisgar nos outros papeis ao fondo da caixa. Entre arquivadores e documentos financieiros, atopa un mapa da vella mansión Akeley.
+> Eloi tivo unha sorte tremenda: a caixa ábrese case ao instante. Non só colle o ritual, senón que ten tempo tamén de fisgar nos outros papeis ao fondo da caixa. Entre arquivadores e documentos financieiros, atopa un mapa da vella mansión Acuña.
 
 ## Actions
 
