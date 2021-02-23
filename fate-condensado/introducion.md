@@ -7,11 +7,11 @@ Placing: 1
 
 Isto é _Fate Condensado_, a versión de _Fate Básico_ máis compacta que fomos quen de facer. É un xogo de rol completo; mesmo se outros libros poden mellorar o proveito que lle tires, non precisas de ningún outro libro para xogar.
 
-E, falando diso, vamos ver o que _si_ precisas!
+Falando diso: vamos ver o que _si_ precisas!
 
 ## O que preciso para xogar?
 
-Para xogares a _Fate Condensado_, precisarás entre dúas e seis amigas —exercendo unha delas como Dirección de Xogo (DX)—,  algúns dados, algunhas doas, algo para escribir, papeis e algo no que faceres pequenas notas (por exemplo, pósits).
+Para xogares a _Fate Condensado_, precisarás entre dúas e seis amigas —exercendo unha delas como Dirección de Xogo (DX)—,  algúns dados, algunhas doas, algo para escribir, papeis e algo no que facerdes pequenas notas (por exemplo, pósits).
 
 _Fate Condensado_ usa **dados Fate** cando as personaxes actúan. Os dados Fate son dados de seis caras nos que dúas caras teñen un <fate>0</fate>, dúas teñen un <fate>+</fate> e as outras dúas teñen un <fate>-</fate>. Cun set de catro dados xa abonda, pero terdes un set por xogadora é o ideal. Tamén hais outras alternativas, como usardes dados de seis caras dos de toda a vida (1-2 = <fate>-</fate>, 3-4 = <fate>0</fate>, 5-6 = <fate>+</fate>) ou a **Baralla de Fate**, que emprega cartas en troques de dados. En calquera caso, neste texto usaremos sempre *rolar* por simplificar.
 

@@ -70,7 +70,7 @@ Sempre que roles, a diferencia entre o teu esforzo e a dificultade ou oposición
 
 Algunhas resolucións son obviamente mellores para ti que as outras, pero todas elas deberían avanzar a historia dunha forma interesante. Comezaches coa ficción por diante; remata tamén con ela para manterdes o foco na historia e asegurarte que interpretas os resultados dunha forma que lle acaia á ficción.
 
-> Eloi non é un experto en abrir caixas fortes (ainda que ten as ferramentas axeitadas), pero está no cuartel xeral dunha secta sinistra e o único que se interpón entre el e o libro de rituais que precisa desesperadamente é unha porta de aceiro. Poderá sorteala? 
+> Eva non é unha experta en abrir caixas fortes (ainda que ten as ferramentas axeitadas), pero está no cuartel xeral dunha secta sinistra e o único que se interpón entre ela e o libro de rituais que precisa desesperadamente é unha porta de aceiro. Poderá sorteala? 
 
 ### Fracaso
 
@@ -82,19 +82,19 @@ Ese fracaso pode interpretarse de varias formas: fracaso simple, éxito a custo 
 
 A primeira é a máis sinxela de entender: **fracaso simple**. Non logras a túa meta, non fas progresos, e quedas coas ganas. Asegurádevos de que a historia siga progresando: non dar aberto a porta, sen máis, é aborrecido e estancado.
 
-> Eloi baixa o picaporte satisfeito, pero a caixa permanece ben pechada mentres as alarmas comezan a ruxir. O fracaso mudou a situación e moveu a historia cara diante: agora os gardas están de camiño. Eloi enfróntase a un novo dilema: tentar abrir a caixa doutra forma, agora que a discreción xa se foi ao tacho, ou evitar empeoralo e saír correndo?
+> Eva baixa o picaporte satisfeita, pero a caixa permanece ben pechada mentres as alarmas comezan a ruxir. O fracaso mudou a situación e moveu a historia cara diante: agora os gardas están de camiño. Eva enfróntase a un novo dilema: tentar abrir a caixa doutra forma, agora que a discreción xa se foi ao tacho, ou evitar empeoralo e saír correndo?
 
 #### Éxito a custo alto
 
 En segundo lugar está o **éxito a custo alto**. Das feito o que querías facer, pero hai un prezo importante a pagares: a situación empeora ou complícase. A Dirección de Xogo pode declarar que esta é a resolución ou ofrecela en lugar do fracaso simple. Ambas opcións son boas e útiles en diferentes situacións.
 
-> Eloi fracasa na súa rolada e a DX di: «Escoitas o estalo do derradeiro pistón ao encaixar no seu sitio. Respóndelle o estalo do seguro dun revólver cando o garda che pide que levantes as mans.» O alto custo aquí é a confrontación co garda que Eloi esperaba poder evitar.
+> Eva fracasa na súa rolada e a DX di: «Escoitas o estalo do derradeiro pistón ao encaixar no seu sitio. Respóndelle o estalo do seguro dun revólver cando o garda che pide que levantes as mans.» O alto custo aquí é a confrontación co garda que Eva esperaba poder evitar.
 
 #### Recibir un impacto
 
 Finalmente, podes **recibir un impacto**, que terás que absorber con estrés ou consecuencias ou sufrir algún outro revés. Este tipo de fracaso é máis frecuente cando te defendes de ataques ou ao superares obstáculos perigosos. É diferente dun fracaso simple porque afecta só á personaxe, e non ao grupo enteiro. Tamén é diferente do éxito a custo alto, xa que o éxito non é necesariamente unha posibilidade.
 
-> Eloi é quen de abrir a porta da caixa forte, pero cando agarra o picaporte, nota unha picada no dorso da man. Non logrou desactivar a trampa! Anota a consecuencia leve <aspect>Envelenado</aspect>.
+> Eva é quen de abrir a porta da caixa forte, pero cando agarra o picaporte, nota unha picada no dorso da man. Non logrou desactivar a trampa! Anota a consecuencia leve <aspect>Envelenada</aspect>.
 
 Estas opcións pódense mesturar: un fracaso simple con dano pode ser duro pero necesario segundo a ocasión. Éxito a custo de dano tamén é unha opción, certamente.
 
@@ -108,13 +108,13 @@ O mesmo que nun fracaso, os empates deberán progresar a historia, sen obstaculi
 
 A primeira é o **éxito a custo baixo**: exemplos de custos baixos son un par de puntos de estrés, novas dificultades ou complicacións da historia que non sexan atrancos en si mesmos, ou dar un impulso ao inimigo.
 
-> Todas as primeiras tentativas de Eloi fallan. Para cando dá aberto a porta, está a saír o sol, e escapar baixo o manto da noite xa non será posible. Obtivo o que quería, pero agora está en peor situación.
+> Todas as primeiras tentativas de Eva fallan. Para cando dá aberto a porta, está a saír o sol, e escapar baixo o manto da noite xa non será posible. Obtivo o que quería, pero agora está en peor situación.
 
 #### Éxito parcial
 
 O outro xeito de resolver un empate é cun **éxito parcial**: tes éxito pero só obtés unha parte do que querías.
 
-> Eloi apenas logra abrir un anaco a porta da caixa forte; se a separase máis duns centímetros, saltarían as alarmas, e non sabe como desactivalas. A través da fenda é quen de sacar un par de páxinas do ritual, pero terá que improvisar os pasos finais.
+> Eva apenas logra abrir un anaco a porta da caixa forte; se a separase máis duns centímetros, saltarían as alarmas, e non sabe como desactivalas. A través da fenda é quen de sacar un par de páxinas do ritual, pero terá que improvisar os pasos finais.
 
 ### Éxito
 
@@ -122,11 +122,11 @@ Se o teu esforzo é un ou dous chanzos maior que o albo, tes éxito.
 
 Obtés o que querías sen ningún custo adicional.
 
-> Aberta! Eloi colle o ritual e marcha antes de que os gardas reparen nel.
+> Aberta! Eva colle o ritual e marcha antes de que os gardas reparen nela.
 
 #### Aplicar «a ficción por diante» aos éxitos
 
-A ficción _determina_ o que supón o éxito. Que pasaría se Eloi non tivese as ferramentas ou a experiencia necesarias para abrir a caixa? Talvez o éxito se parecese máis ao noso examplo do «custo baixo». Da mesma forma, se Eloi estivese no equipo porque _fora el quen fabricou a caixa_, ese éxito se podería parecer máis ao noso exemplo «con estilo».
+A ficción _determina_ o que supón o éxito. Que pasaría se Eva non tivese as ferramentas ou a experiencia necesarias para abrir a caixa? Talvez o éxito se parecese máis ao noso examplo do «custo baixo». Da mesma forma, se Eva estivese no equipo porque _fora ela quen fabricou a caixa_, ese éxito se podería parecer máis ao noso exemplo «con estilo».
 
 ### Éxito con estilo
 
@@ -134,48 +134,46 @@ Se o teu esforzo é tres ou máis chanzos maior que o albo, tes éxito con estil
 
 Obtés o que queres, e por riba un pouco máis.
 
-> Eloi tivo unha sorte tremenda: a caixa ábrese case ao instante. Non só colle o ritual, senón que ten tempo tamén de fisgar nos outros papeis ao fondo da caixa. Entre arquivadores e documentos financieiros, atopa un mapa da vella mansión Acuña.
+> Eva tivo unha sorte tremenda: a caixa ábrese case ao instante. Non só colle o ritual, senón que ten tempo tamén de fisgar nos outros papeis ao fondo da caixa. Entre arquivadores e documentos financieiros, atopa un mapa da vella mansión Acuña.
 
-## Actions
+## Accións
 
-There are four <a id="_idTextAnchor009"></a>actions you can roll, each with a specific purpose and effect on the story:
+Podes rolar catro accións, cada unha co seu propósito e efecto na historia:
 
-*   **Overcome** to surmount obstacles with your skills.
-*   **Create an advantage** to change a situation to your benefit.
-*   **Attack** to harm the enemy.
-*   **Defend** to survive an attack, stop a foe from creating an advantage, or oppose an effort to overcome an obstacle.
+* **Superar** para vencer os obstáculos mediante as túas habilidades.
+* **Crear unha vantaxe** para alterares a situación no teu beneficio.
+* **Atacar** para faceres dano ao teu inimigo.
+* **Defender** para sobrevivires a un ataque, impedires a un inimigo crear unha vantaxe, ou presentares oposición a quen quere superar un obstáculo.
 
-### Overcome
+### Superar
 
-Overcome to surmount obstacles with your skills.
+*Supera* para venceres os obstáculos mediante as túas habilidades.
 
-Every character will face untold challenges in the course of the story. The <a id="_idTextAnchor010"></a>**overcome** action is how they face and surmount those obstacles.
+Todas as personaxes se enfrontarán a desafíos inauditos no decurso da historia. A acción de **superar** é a forma de se enfrontaren e venceren eses obstáculos.
 
-A character good at Athletics can climb over walls and race through crowded streets. A detective with high Investigate can piece together clues others have missed. Someone skilled in Rapport will find it easier to avoid a fight in a hostile bar.
+Unha personaxe que sea boa en Atletismo poderá trepar muros e correr a través de rúas ateigadas. Unha detective competente en Investigación poderá conectar pistas que outros pasarían por alto. Alguén cunha alta Sociabilidade terá máis doado evitar unha rifa nunha taberna hostil. 
 
-Your outcomes when overcoming are:
+As resolucións ao superares son:
 
-*   **If you fail,** discuss with the GM (and the defending player, if any) whether it’s a failure or success at a major cost (**page XX**).
+* **Se fallares**, acorda coa DX (e a xogadora defensora, se a houber) se se trata dun fracaso ou dun [éxito a custo alto](#exito-a-custo-alto).
 
-*   **If you tie,** it’s success at a minor cost (**page XX**)—you’re in a tough spot, the enemy gets a boost (**page XX**), or you may take a hit. Alternatively, you fail but gain a boost.
+* **Se empatares**, tes [éxito a custo baixo](#exito-a-custo-baixo): estás nun aprieto, o inimigo obtén un [impulso](/fate-condensado/aspectos-e-puntos-de-fado#impulsos), ou recibes un impacto. Alternativamente, fracasas pero obtés un iompulso.
 
-*   **If you succeed,** you meet your goal and the story moves on without hiccups.
+* **Se tiveres éxito**, logras o teu obxectivo e a historia avanza sen atrancos.
 
-*   **If you succeed with style,** it’s a success and you also get a boost.
+* **Se tiveres éxito con estilo**, é un éxito e por riba obtés un impulso.
 
-Charles has made his way to an Antarctic research facility. The buildings have been wrecked, and the occupants are missing. He wants to search the wreckage for clues. The GM tells him to roll Investigate against Fair (+2) difficulty. Charles gets <dice>[0][0][+][+]</dice> on the dice, plus his Average (+1) Investigate, for a Good (+3) effort. A success! The GM describes the clue he finds: footprints in the snow, made by creatures walking on many thin, inhuman legs.
+> Carolina abriuse paso ata unha instalación científica na Antártida. Os edificios están destrozados e os traballadores, desaparecidos. Quere buscar entre os cascallos algunha pista. A DX pídelle que role Investigación contra unha dificultade razoable (+2). Carolina saca <fate>00++</fate> nos dados, que sumado á súa Investigación regular (+1), resulta nun esforzo bo (+3). Un éxito! A DX describe a pista que atopa: pegadas na neve feitas por algún tipo de  criaturas inhumanas con moitas patas delgadiñas.
 
-Overcome actions are often used to determine whether a character can access or notice a particular fact or clue. Keep a close eye on those success-at-a-cost options when that’s the case. If missing a detail would cause your story to stall, take failure off the table, and focus on the cost instead.
+As accións de Superar úsanse a miúdo para determinar o acceso ou percepción dunha personaxe a un feito ou pista. Neses casos, ten moi presentes as opcións para éxito a custo. Cando non reparar dun detalle pode paralizar a partida, non des opción a ese fracaso e céntrate no custo.
 
-### Create an Advantage
+### Crear unha Vantaxe
 
-Create A situation aspect or gain a benefit from an existing aspect.
+*Crea* un aspecto de situación ou tira proveito dun aspecto existente.
 
-You can use the <a id="_idTextAnchor011"></a>**create an advantage** action to change the course of the story. By using your skills to introduce new aspects or add invokes to existing aspects, you can stack the deck for yourself and your teammates. You might change the circumstances (barring a door or creating a plan), discover new information (learning a monster’s weakness through research), or take advantage of something already known (such as a CEO’s taste for scotch).
+Podes usar a acción de **crear unha vantaxe** para alterar o curso da historia. Ao usares as túas habilidades para introducir aspectos novos ou engadir invocacións a aspectos existentes, es quen de inclinar a balanza no teu favor e no das túas compañeiras. Talvez mudes as circunstancias (atranando unha porta ou deseñando un plan), descubras nova información (revelando a debilidade dun monstro coas túas pesquisas), ou tires proveito de algo que xa sabías (a preferencia dun xerente polo whisky escocés).
 
-An aspect created (or discovered) by creating an advantage works like any other: It defines the narrative circumstances and can allow, prevent, or impede actions—for instance, you cannot read a spell if the room has been made **Pitch Black**. It can also be invoked (**page XX**) or compelled (**page XX**). In addition, creating an advantage gives you one or more **free invokes** of the created aspect. A free invoke, as the name suggests, lets you invoke an aspect without spending a fate point. You can even let your allies use free invokes you have created.
-
-When you roll to create an advantage, specify whether you’re creating a new aspect or taking advantage of an existing one. If the former, are you attaching the aspect to an ally, opponent, or the environment? If you’re attaching it to an opponent, they can take the defend action to oppose you. Otherwise you’ll usually face a difficulty, but the GM can decide if something or someone opposes your efforts with a defend roll instead.
+Cando roles para crear unha vantaxe, especifica se estás a crear un novo aspecto ou estás a aproveitarte dun que xa existe. No primeiro caso, estás a anexar o aspecto a unha aliada, un inimigo, ou á contorna? Se o estás a anexar a un inimigo, pode usar a acción de Defender para opoñerse. Nos outros casos normalmente te enfrontarías a unha dificultade, pero a DX pode decidir que, en vez de iso, algo ou alguén se opoña aos teus esforzos cunha rolada de defender.
 
 Your outcomes when creating a new aspect are:
 

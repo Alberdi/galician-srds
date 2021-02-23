@@ -66,9 +66,9 @@ Mentres que os aspectos definen quen é a túa personaxe, as **habilidades** mos
 
 Cada habilidade ten un **nivel**. Canto máis nivel, mellor é a personaxe nesa habilidade. En conxunto, as habilidades da túa personaxe representarán que accións se lle dan ben, de cales ten certo coñecemento, e cales non son o seu.
 
-Escolle da seguinte forma os niveis das habilidades da túa personaxe, arranxadas nunha pirámide coa máis alta no nivel excelente (+4):
+Escolle da seguinte forma os niveis das habilidades da túa personaxe, arranxadas nunha pirámide coa máis alta no nivel formidable (+4):
 
-* Unha habilidade excelente (+4)
+* Unha habilidade formidable (+4)
 * Dúas habilidades boas (+3)
 * Tres habilidades razoables (+2)
 * Catro habilidades regulares (+1)
@@ -78,13 +78,13 @@ Escolle da seguinte forma os niveis das habilidades da túa personaxe, arranxada
 
 En _Fate Condensado_, e en Fate en xeral, os niveis organízanse na seguinte escala:
 
-| Nivel | Adxectivo     |
+| Nivel | Adxectivo    |
 | ----- | ------------ |
 | +8    | Lendario     |
 | +7    | Épico        |
 | +6    | Fantástico   |
 | +5    | Soberbio     |
-| +4    | Excelente    |
+| +4    | Formidable   |
 | +3    | Bo           |
 | +2    | Razoable     |
 | +1    | Regular      |
@@ -164,9 +164,9 @@ Cando constrúas a túa propia implementación de Fate, o primeiro no que debes 
 * A lista predeterminada ten 19 habilidades, e as xogadoras soben o nivel das súas personaxes por riba de mediocre (+0) en 10 delas. Se mudas o número de habilidades, pode que queiras mudar tamén como se distribúen os niveis.
 * As nosas habilidades predeterminadas céntranse en responder a pregunta «que podes facer?», pero a túa lista non ten por que facer o mesmo. Pode que queiras unha lista centrada en «en que cres?», na pregunta «como fas as cousas?» (igual que nos enfoques de _Fate Acelerado_), nos roles nunha banda de ladróns e estafadores, etcétera.
 * Os niveis en Fate están estruturados para respaldar nichos de personaxe. Por iso, na predeterminada, as xogadoras comezan cunha forma de «pirámide». Asegúrate de que esa protección do nicho é posible calquera que for a lista que crees.
-* A mellor habilidade debería comezar por volta de excelente (+4). Podes subilo ou baixalo ao teu gusto, pero non perdas de vista o que iso significa para os niveis de dificultade e das habilidades opostas ás que se enfrontarán as túas PX.
+* A mellor habilidade debería comezar por volta de formidable (+4). Podes subilo ou baixalo ao teu gusto, pero non perdas de vista o que iso significa para os niveis de dificultade e das habilidades opostas ás que se enfrontarán as túas PX.
 
-> Federica decide facer unha partida de Fate no espazo, cunha lista de habilidades máis breve centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súas xogadoras que repartan os seus niveis da seguinte forma: un excelente (+4), dous bos (+3), tres razoables (+2), dous regulares (+1) e un mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.
+> Federica decide facer unha partida de Fate no espazo, cunha lista de habilidades máis breve centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súas xogadoras que repartan os seus niveis da seguinte forma: un formidable (+4), dous bos (+3), tres razoables (+2), dous regulares (+1) e un mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.
 
 Se estás a pensar en facer a túa propia lista de habilidades para a túa partida e buscas ideas para inspirar a túa imaxinación, vai á sección de [regras opcionais](/fate-condensado/regras-opcionais#mudar-a-lista-de-habilidades).
 
@@ -222,12 +222,12 @@ O **estrés** e as **consecuencias** son a forma na que a túa personaxe resiste
 
 O teu nivel en Vigor condiciona cantas caixas de estrés físico tes en total. Vontade fai o mesmo para o teu estrés mental. Consulta a seguinte táboa:
 
-| Vigor/Vontade                 | Estrés físico/mental |
-| ----------------------------- | -------------------- |
-| Mediocre (+0)                 | <stress>1</stress><stress>1</stress><stress>1</stress>     |
-| Regular (+1) ou razoable (+2) | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress>   |
-| Bo (+3) ou excelente (+4)     | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> |
-| Soberbio (+5) ou maior        | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
+| Vigor/Vontade                  | Estrés físico/mental |
+| ------------------------------ | -------------------- |
+| Mediocre (+0)                  | <stress>1</stress><stress>1</stress><stress>1</stress>     |
+| Regular (+1) ou razoable (+2)  | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress>   |
+| Bo (+3) ou formidable (+4)     | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> |
+| Soberbio (+5) ou maior         | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
 
 Aprenderás máis sobre como funcionan o estrés e as consecuencias na sección [_Recibir dano_](/fate-condensado/desafios-conflitos-e-competicions#recibir-dano).
 
